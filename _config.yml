@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bastian Hagedornn"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a PhD student at the University of Münster"
+  location         : "Münster, Germany"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.de/citations?user=9MhKeaAAAAAJ&hl=de&oi=ao"
   email            :
   uri              :
   bitbucket        :
