@@ -11,7 +11,7 @@ title                    : "Bastian Hagedorn"
 title_separator          : "-"
 name                     : &name "Bastian Hagedorn"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bastianhagedorn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bastianhagedorn/bastianhagedorn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bastian Hagedornn"
-  avatar           : "profile.png"
+  name             : "Bastian Hagedorn"
+  avatar           : "hagedorn2.png"
   bio              : "I am a PhD student at the University of Münster"
   location         : "Münster, Germany"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=9MhKeaAAAAAJ&hl=de&oi=ao"
-  email            :
+  email            : "b.hagedorn@wwu.de"
   uri              :
-  bitbucket        :
+  bitbucket        : "b_hagedorn"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "bastian.hagedorn.9"
   foursquare       :
-  github           : "academicpages"
+  github           : "bastianhagedorn"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "bastian-hagedorn"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "hagedornbastian"
   vine             :
   weibo            :
   xing             :
