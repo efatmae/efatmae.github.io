@@ -24,7 +24,7 @@ I am always looking for motivated and engaged students interested in parallel pr
 You can find a detailed summary of currently available dissertation topics [here](/research/).
 Please feel free to [contact me](/contact/) with further questions or if you are interested in one or more dissertation topics.
 
-Upcomming Events
+Upcoming Events
 ======
 * [CGO 2018](http://cgo.org/cgo2018/) - I will present my latest publication _High Performance Stencil Code Generation with Lift_ at the International Symposium on Code Generation and Optimization (CGO) 2018 in Vienna.
 
