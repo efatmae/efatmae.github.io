@@ -18,14 +18,18 @@ Scheduling and fusing these computations to achieve highest performance is a non
 This thesis should extend Lift with the functionality to express, optimize and execute computation graphs.
 
 ## Algorithmic Convolution Transformations in Lift
-(Suitable for master students)
-This is a text describing the topic
+Convolutions are simple stencil computations which frequently occur in deep learning and are executed iteratively millions of times.
+High-performance implementations of convolutions are provided in vendor-tuned libraries such as cuDNN for Nvidia GPUs.
+In order to get the highest performance possible across different architectures, one needs to adjust the implementation for the given device, input size and weight-matrix size.
+Generally, there exist four different variants to compute convolutions: [_Direct_](http://www.lift-project.org/publications/2016/hagedorn16masterthesis.pdf), [_GEMM-based_](https://arxiv.org/pdf/1410.0759.pdf), [_FFT-based_](https://arxiv.org/pdf/1312.5851.pdf) and [_Winograd_](https://arxiv.org/pdf/1509.09308.pdf).
+All of these approaches compute the same result using a different strategy suitable for a particular situation.
+The goal of this thesis is to implement all strategies as Lift-expressions and formulate rewrite rules which allow to transform expressions to implement different strategies.
 
 ## High-Performance FFT computations in Lift
 (Suitable for master students)
 This is a text describing the topic
 
-## Performance Modelling of Lift Low-Level Exrepssions
+## Performance Modelling of Lift Low-Level Expressions
 (Suitable for bachelor and master students)
 This is a text describing the topic
 
