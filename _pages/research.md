@@ -18,6 +18,7 @@ Scheduling and fusing these computations to achieve highest performance is a non
 This thesis should extend Lift with the functionality to express, optimize and execute computation graphs.
 
 ## Algorithmic Convolution Transformations in Lift
+(Suitable for master students)
 Convolutions are simple stencil computations which frequently occur in deep learning and are executed iteratively millions of times.
 High-performance implementations of convolutions are provided in vendor-tuned libraries such as cuDNN for Nvidia GPUs.
 In order to get the highest performance possible across different architectures, one needs to adjust the implementation for the given device, input size and weight-matrix size.
