@@ -35,9 +35,52 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>
+            {{ page.year }} {{ page.type }}<br/>
+            <i>{{ page.venue }}</i>
+          </p>
+          <p>
+            {% if page.moodle-id %}
+            <a href="http://moodle2.gla.ac.uk/course/view.php?id={{ page.moodle-id }}" style="text-decoration: none;"><span class="fa-stack fa-1x" style="margin-right:1em;"><i class="fa fa-graduation-cap fa-2x"></i></span>University of Glasgow Moodle Course</a>
+            {% endif %}
+          </p>
+        {% elsif page.collection == 'publications' %}
+          <p>
+            <strong style="margin-right: 0.5em;"><i class="fa fa-fw fa-users" aria-hidden="true"></i></strong>{{ page.authors }}
+            <strong style="margin-left: 1em;"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B, %Y" }}</time>
+          </p>
+          <p>
+            {% if page.paperurl %}
+            <a href="{{ page.paperurl }}" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span>PDF</a>
+            {% endif %}
+            {% if page.bibtexurl %}
+            <a href="{{ page.bibtexurl }}" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span>BibTex</a>
+            {% elsif page.dblp %}
+            <a href="http://dblp.dagstuhl.de/rec/bib0/{{ page.dblp }}.bib" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span>BibTex</a>
+            {% endif %}
+            {% if page.videourl %}
+            <a href="{{ page.videourl }}" style="margin-right:1em; text-decoration: none;"><span style="margin-right: 0.25em;" class="fa-stack fa-1x"><i class="fa fa-youtube-play fa-2x"></i></span>Video</a>
+            {% endif %}
+            {% if page.dblp %}
+            <a href="http://dblp.org/rec/html/{{ page.dblp }}" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="ai ai-dblp-square ai-2x"></i></span>dblp</a>
+            {% endif %}
+            {% if page.doi %}
+            <a href="http://dl.acm.org/citation.cfm?doid={{ page.doi }}" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="ai ai-acm-square ai-2x"></i></span>ACM DL</a>
+            {% endif %}
+            {% if page.acm-id %}
+            <a href="http://dl.acm.org/citation.cfm?id={{ page.doi }}" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="ai ai-acm-square ai-2x"></i></span>ACM DL</a>
+            {% endif %}
+            {% if page.google-scholar-url %}
+            <a href="{{ page.google-scholar-url }}" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="ai ai-google-scholar-square ai-2x"></i></span>Google Scholar</a>
+            {% endif %}
+          </p>
+
+          {% if page.proceedings %}
+          <p>Published in <i>{% if page.venue-url %}<a href="{{ page.venue-url }}">{% endif %}{{ page.proceedings }}{% if page.venue-url %}</a>{% endif %}</i></p>
+          {% else %}
+          <p><i>{% if page.venue-url %}<a href="{{ page.venue-url }}">{% endif %}{{ page.venue }}{% if page.venue-url %}</a>{% endif %}</i></p>
+          {% endif %}
+
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -66,7 +109,7 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      {% include post_pagination.html %}
+      <!-- {% include post_pagination.html %} -->
     </div>
 
     {% if site.comments.provider and page.comments %}
@@ -88,3 +131,4 @@ layout: default
     </div>
   {% endif %}
 </div>
+
