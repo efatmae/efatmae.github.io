@@ -26,6 +26,8 @@ Please feel free to [contact me](/contact/) with further questions or if you are
 
 Upcoming Events
 ======
-* [CGO 2018](http://cgo.org/cgo2018/) - I will present my latest publication _High Performance Stencil Code Generation with Lift_ at the International Symposium on Code Generation and Optimization (CGO) 2018 in Vienna.
+
 * [HPC-Europa3 Transnational Access](http://www.hpc-europa.eu/) - I've been awarded with a travel grant which allows me to visit [ICHEC](https://www.ichec.ie/) hosted by [Michel Steuwer](http://michel.steuwer.info/) at the University of Glasgow starting in February.
-* [SPLS 2018](http://www.dcs.gla.ac.uk/research/spls/) - I will present my latest publication _High Performance Stencil Code Generation with Lift_ at the Scottish Programming Languages Seminar (SPLS) 2018 in Glasgow.
+* [CGO 2018](http://cgo.org/cgo2018/) - I will present my latest publication [_High Performance Stencil Code Generation with Lift_](/publications/2018/CGO/) at the International Symposium on Code Generation and Optimization (CGO) 2018 in Vienna.
+* [CArD Seminar](http://www.icsa.inf.ed.ac.uk/compilers/) - I will present my latest publication [_High Performance Stencil Code Generation with Lift_](/publications/2018/CGO/) at the Compiler and Architecture Design Group at the University of Edinburgh on the 22nd of February.
+* [SPLS 2018](http://www.dcs.gla.ac.uk/research/spls/) - I will present my latest publication [_High Performance Stencil Code Generation with Lift_](/publications/2018/CGO/) at the Scottish Programming Languages Seminar (SPLS) 2018 in Glasgow.
