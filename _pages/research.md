@@ -26,10 +26,6 @@ Generally, there exist four different variants to compute convolutions: [_Direct
 All of these approaches compute the same result using a different strategy suitable for a particular situation.
 The goal of this thesis is to implement all strategies as Lift-expressions and formulate rewrite rules which allow to transform expressions to implement different strategies.
 
-## High-Performance FFT computations in Lift
-(Suitable for master students)
-This is a text describing the topic
-
 ## Performance Modelling of Lift Low-Level Expressions
 (Suitable for bachelor and master students)
 This is a text describing the topic
