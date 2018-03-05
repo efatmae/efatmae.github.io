@@ -15,6 +15,7 @@ This is an overview of the currently available topics for bachelor and master di
 If you have any questions or are interested in one or more topics feel free to drop me an email.
 
 ## Designing a DSL for Expressing Rewrite Rules in Lift
+(Suitable for bachelor and master students)
 In Lift, programs are optimized by applying rewrite rules.
 Currently, these rewrite rules are tightly integrated in the Scala implementation of Lift.
 In this thesis, a Domain Specific Language (DSL) needs to be designed and implemented which allows to express rewrite rules more conveniently.
