@@ -14,10 +14,6 @@ In close collaboration with the Universities of Edinburgh and Glasgow, I am one 
 
 ---
 
-Disclaimer
-======
-This site is currently under construction.
-
 Dissertation Opportunities
 ======
 I am always looking for motivated and engaged students interested in parallel programming and code generation.

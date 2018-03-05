@@ -4,11 +4,20 @@ permalink: /research/
 author_profile: true
 ---
 
-This is a page describing my research
+As one of the core-developers of [Lift](http://www.lift-project.org), I am focussing on performance portable code generation for parallel accelerators.
+I have been particularly focussing on code generation for stencil computations.
+A paper about this work has been published at [CGO'18](/publications/2018/CGO/) and won the prestigious **Best Paper Award**.
+
+I am especially interested in expressing optimizations as formal rewrite rules and the systematic exploration of the space of possible implementation choices.
 
 # Available Dissertation Topics
 This is an overview of the currently available topics for bachelor and master dissertations.
 If you have any questions or are interested in one or more topics feel free to drop me an email.
+
+## Designing a DSL for Expressing Rewrite Rules in Lift
+In Lift, programs are optimized by applying rewrite rules.
+Currently, these rewrite rules are tightly integrated in the Scala implementation of Lift.
+In this thesis, a Domain Specific Language (DSL) needs to be designed and implemented which allows to express rewrite rules more conveniently.
 
 ## Automatic Optimization of Image Processing Pipelines in Lift
 (Suitable for master students)
@@ -25,18 +34,12 @@ In order to get the highest performance possible across different architectures,
 Generally, there exist four different variants to compute convolutions: [_Direct_](http://www.lift-project.org/publications/2016/hagedorn16masterthesis.pdf), [_GEMM-based_](https://arxiv.org/pdf/1410.0759.pdf), [_FFT-based_](https://arxiv.org/pdf/1312.5851.pdf) and [_Winograd_](https://arxiv.org/pdf/1509.09308.pdf).
 All of these approaches compute the same result using a different strategy suitable for a particular situation.
 The goal of this thesis is to implement all strategies as Lift-expressions and formulate rewrite rules which allow to transform expressions to implement different strategies.
+An interesting [paper](https://arxiv.org/pdf/1710.01079.pdf) related to this topic has been published at CGO'18.
 
 ## Performance Modelling of Lift Low-Level Expressions
 (Suitable for bachelor and master students)
-This is a text describing the topic
-
-## Implementing an LLVM Frontend for Lift
-(Suitable for bachelor and master students)
-This is a text describing the topic
-
-## Visualizing Transformations and Rewriting of Functional Programs
-(Suitable for bachelor and master students)
-This is a text describing the topic
+[Performance Models](http://www.ac.uma.es/~siham/CPE.pdf) are used to predict the performance of programs without actually executing them.
+In this thesis, a performance model for stencil computations shall be integrated into Lift in order to predict the performance of low-level Lift expressions.
 
 ## Optimizing Stencil Computations for Intel Xeon Phi using Vectorization
 (Suitable for bachelor students)
@@ -62,3 +65,12 @@ In this thesis, the ATF will be extended with a new module which, at the end of 
 This consists of generating multiple plots for the achieved results.
 Often enough, observing the same results using different metrics reveals new insights and information.
 With the help of the new module, the analysis of the produced data shall be significantly simplified and easily configurable to the developers needs.
+
+## More topics include:
+### Visualizing Transformations and Rewriting of Functional Programs
+(Suitable for bachelor and master students)
+
+### Implementing an LLVM Frontend for Lift
+(Suitable for bachelor and master students)
+
+
