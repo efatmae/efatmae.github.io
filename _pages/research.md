@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-As one of the core-developers of [Lift](http://www.lift-project.org), I am focussing on performance portable code generation for parallel accelerators.
+As one of the core-developers of [Lift](http://www.lift-project.org/stencils.html), I am focussing on performance portable code generation for parallel accelerators.
 I have been particularly focussing on code generation for stencil computations.
 A paper about this work has been published at [CGO'18](/publications/2018/CGO/) and won the prestigious **Best Paper Award**.
 
