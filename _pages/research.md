@@ -58,6 +58,11 @@ In this thesis, the performance achieved by PPCG and Lift shall be evaluated usi
 Similar to Lift, Futhark relies on automatic rewriting of functional programs during the optimization phase of their compiler.
 In this thesis, the performance achieved by Futhark and Lift shall be evaluated using multiple benchmarks implemented in both languages.
 
+## Implementation of a Stencil Benchmark Suite
+(Suitable for bachelor students)
+In this thesis, a benchmark suite for stencil computations shall be developed and implemented.
+This benchmark suite should contain a wide range of different stencil codes implemented in several parallel programming models such as OpenCL, CUDA, and OpenMP.
+
 ## Implementing an Evaluation Module for the Auto-Tuning Framework (ATF)
 (Suitable for bachelor students)
 The ATF is an auto-tuning framework developed at the University of Münster.
