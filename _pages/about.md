@@ -27,4 +27,4 @@ Upcoming Events
 
 * [HPC-Europa3 Transnational Access](http://www.hpc-europa.eu/) - I've been awarded with a travel grant which allows me to visit [ICHEC](https://www.ichec.ie/) hosted by [Michel Steuwer](http://michel.steuwer.info/) at the University of Glasgow starting in February.
 * [ISPASS 2018](http://www.ispass.org/ispass2018/) - We will present a tutorial about the Lift project at ISPASS 2018 in Belfast.
-* [SPLS 2018](http://www.dcs.gla.ac.uk/research/spls/) - I will present my latest publication [_High Performance Stencil Code Generation with Lift_](/publications/2018/CGO/) at the Scottish Programming Languages Seminar (SPLS) 2018 in Glasgow.
+* [CPC 2018](https://cpc2018.scss.tcd.ie/) - I will present my latest publication [_High Performance Stencil Code Generation with Lift_](/publications/2018/CGO/) at the 20th Workshop on Compilers for Parallel Computing (CPC) in Dublin.

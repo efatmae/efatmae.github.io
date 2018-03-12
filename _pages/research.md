@@ -37,10 +37,10 @@ All of these approaches compute the same result using a different strategy suita
 The goal of this thesis is to implement all strategies as Lift-expressions and formulate rewrite rules which allow to transform expressions to implement different strategies.
 An interesting [paper](https://arxiv.org/pdf/1710.01079.pdf) related to this topic has been published at CGO'18.
 
-## Performance Modelling of Lift Low-Level Expressions
+## Advanced Optimizations for Stencil Computations as Formal Rewrite Rules
 (Suitable for bachelor and master students)
-[Performance Models](http://www.ac.uma.es/~siham/CPE.pdf) are used to predict the performance of programs without actually executing them.
-In this thesis, a performance model for stencil computations shall be integrated into Lift in order to predict the performance of low-level Lift expressions.
+In Lift, optimizations are encoded as formal rewrite rules. 
+In this thesis, advanced optimizations for stencil computations, such as vectorization and spacial and temporal tiling shall be formalized and included to Lift's existing set of rewrite rules.
 
 ## Optimizing Stencil Computations for Intel Xeon Phi using Vectorization
 (Suitable for bachelor students)
