@@ -2,13 +2,13 @@
 title: "High Performance Stencil Code Generation with Lift"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2018-03-Heriott-Watt
-venue: "Heriott-Watt University"
+permalink: /talks/2018-03-Heriot-Watt
+venue: "Heriot-Watt University"
 date: 2018-04-11
 location: "Edinburgh, UK"
 ---
 
-<a href="/files/talks/2018/Heriott-Watt-2018.pdf" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span> Slides of the talk</a>
+<a href="/files/talks/2018/Heriot-Watt-2018.pdf" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span> Slides of the talk</a>
 
 Stencil computations are widely used from physical simulations to machine-learning and are commonly executed on modern parallel systems such as multi-core CPUs, Graphic Processing Units or accelerators such as Intel’s Xeon Phi. Although stencil computations have been extensively studied, optimizing them for the increasingly diverse hardware landscape remains challenging even for performance experts.
 
