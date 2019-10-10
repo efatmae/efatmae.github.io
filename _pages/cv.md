@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. Computing Science, Helwan University, Cairo, Egypt, 2008
+* M.Sc. in GeoInformatics, Twente University, Twente, The Netherlands, 2013
+* M.Sc. in DataScience, Glasgow university, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019: KTP Research Associate
+  * University of the West of Scotland (UWS)
+  * Project: Working on automatic detection of cyberbullying
+  * Supervisor: Naeem Ramazan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April 2019 to August 2019: DataScience Lecturer (Part-time)
+  * Dundee University
+  * Duties included:
+      * Helping students with Machine learning assignments
+	  * Marking assignments
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2014 to 2018: Research Assistant
+  * Glasgow University
+  * Project: Detecting violent incidents from tweets during elections and protests.
+  * Supervisor: Bjorn Sand Jensen
+  * Duties included:
+     * Pre-processing data
+     * Create Machine learning models
+     * Analyse model’s performance
+     * Labelling data
+     * Designing and conducting crowdsourcing experiments
+     * Writing reports
+     * Wrote my MSc thesis as part of the project
+
