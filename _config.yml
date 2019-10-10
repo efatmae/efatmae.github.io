@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Bastian Hagedorn"
+locale                   : "en-UK"
+title                    : "Fatma Elsafoury"
 title_separator          : "-"
-name                     : &name "Bastian Hagedorn"
+name                     : &name "Fatma Elsafoury"
 description              : &description "personal description"
-url                      : https://bastianhagedorn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://efatmae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bastianhagedorn/bastianhagedorn.github.io"
+repository               : "efatmae/efatmae.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,34 +78,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bastian Hagedorn"
-  avatar           : "hagedorn2.png"
-  bio              : "I am a PhD student at the University of Münster"
-  location         : "Münster, Germany"
+  name             : "Fatma Elsafoury"
+  avatar           : "profile.png"
+  bio              : "I'm a KTP Research associate, Computing Science, UWS"
+  location         : "Glasgow, The UK"
   employer         :
-  googlescholar    : "https://scholar.google.de/citations?user=9MhKeaAAAAAJ&hl=de&oi=ao"
-  email            : "b.hagedorn@wwu.de"
+  googlescholar    : #"https://scholar.google.de/citations?user=9MhKeaAAAAAJ&hl=de&oi=ao"
+  email            : "fatma.elsafoury@uws.ac.uk"
   uri              :
-  bitbucket        : "b_hagedorn"
+  bitbucket        : #"b_hagedorn"
   codepen          :
-  dblp             : "http://dblp.uni-trier.de/pers/hd/h/Hagedorn:Bastian"
+  dblp             : #"http://dblp.uni-trier.de/pers/hd/h/Hagedorn:Bastian"
   dribbble         :
   flickr           :
-  facebook         : "bastian.hagedorn.9"
+  facebook         : #"bastian.hagedorn.9"
   foursquare       :
-  github           : "bastianhagedorn"
+  github           : #"efatmae"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "e.fatma.e"
   lastfm           :
-  linkedin         : "bastian-hagedorn"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "fatma-elsafoury"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hagedornbastian"
+  twitter          : "fatmaElsafoury"
   vine             :
   weibo            :
   xing             :
