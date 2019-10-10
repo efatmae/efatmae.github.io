@@ -8,24 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-
-
-    #  - title: "Teaching"
-    #    url: /teaching/    
-    
-    #  - title: "Portfolio"
-    #    url: /portfolio/
-    #        
-    #  - title: "Blog"
-    #    url: /year-archive/
-    #    
-
+  - title: "Teaching"
+    url: /teaching/
 
   - Activities: "Activities"
      url: /activities/
 
   - Awards: "Awards"
-    url: Awards/
+    url: /Awards/
 
   - title: "CV"
     url: /cv/
