@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="" />
+    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" afterPath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_activities/July_2018_PWA.md" afterPath="$PROJECT_DIR$/_activities/July_2018_PWA.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" afterPath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/cv.md" afterPath="$PROJECT_DIR$/_pages/cv.md" />
+    </list>
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,28 +29,28 @@
       <file leaf-file-name="2018_2019_Mental_health_support_group.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cv.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cv.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/cv.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+            <state relative-caret-position="72">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sep_2018_Code_for_girls.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md">
+      <file leaf-file-name="GeoInformatics_ITC_Twente.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_publications/2013/GeoInformatics_ITC_Twente.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -55,17 +60,17 @@
         <entry file="file://$PROJECT_DIR$/_activities/July_2018_PWA.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2011-2013.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2011-2013.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_awards/2011-2013.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,7 +106,6 @@
         <option value="$PROJECT_DIR$/_teaching/2017-2018-teaching.md" />
         <option value="$PROJECT_DIR$/_teaching/2018-winter-teaching.md" />
         <option value="$PROJECT_DIR$/_teaching/2018-winter-teaching_Computational_thinking" />
-        <option value="$PROJECT_DIR$/_pages/cv.md" />
         <option value="$PROJECT_DIR$/_pages/Activities.html" />
         <option value="$PROJECT_DIR$/_activities/2017-03-CArD.md" />
         <option value="$PROJECT_DIR$/_pages/publications.md" />
@@ -119,11 +123,12 @@
         <option value="$PROJECT_DIR$/_teaching/2019-summer-teaching.md" />
         <option value="$PROJECT_DIR$/_pages/activities.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_activities/July_2018_PWA.md" />
-        <option value="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" />
         <option value="$PROJECT_DIR$/_awards/2011-2013.md" />
         <option value="$PROJECT_DIR$/_awards/2014-2018-LKAS.md" />
         <option value="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" />
+        <option value="$PROJECT_DIR$/_activities/July_2018_PWA.md" />
+        <option value="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" />
+        <option value="$PROJECT_DIR$/_pages/cv.md" />
       </list>
     </option>
   </component>
@@ -202,6 +207,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efatmae.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efatmae.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2013" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -532,14 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2013/GeoInformatics_ITC_Twente.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_publications/2017/Scottish_referendum.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -600,14 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -732,26 +739,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md">
+    <entry file="file://$PROJECT_DIR$/_awards/2011-2013.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_activities/July_2018_PWA.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -764,26 +755,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/cv.md">
+    <entry file="file://$PROJECT_DIR$/_activities/July_2018_PWA.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        <state relative-caret-position="270">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="270">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_awards/2011-2013.md">
+    <entry file="file://$PROJECT_DIR$/_publications/2013/GeoInformatics_ITC_Twente.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/cv.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>

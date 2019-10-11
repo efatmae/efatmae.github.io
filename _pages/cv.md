@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperpdf: '/files/publications/2013/Msc_thesis_2011.pdf'
 redirect_from:
   - /resume
 ---
