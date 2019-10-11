@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 3"
+title: "Data science"
 collection: teaching
 type: "Course lab"
 permalink: /teaching/2019-summer-teaching
@@ -8,12 +8,7 @@ date: April 2019
 location: "Dundee, The UK"
 ---
 
-
-* Courses:
-    * Data Science : Python
-
-* Responsibility:
-    * Helping students with machine learning and Python assignments
+My responsibilities was to help students with machine learning and Python assignments.
 
 Heading 1
 ======

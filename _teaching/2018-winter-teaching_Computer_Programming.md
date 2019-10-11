@@ -1,22 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Computer Programming: Python"
 collection: teaching
-type: "Course lab"
-permalink: /teaching/2018-winter-teaching
+type: "Course lap"
+permalink: /teaching/2017-2018-teaching
 venue: "Glasgow University, Computing Science"
-date: sept 2018
+date: Winter 2017
 location: "Glasgow, The UK"
 ---
-
-* Courses:
-    * IT Programming : Java
-    * Computing Thinking: Alice
-
-* Responsibility:
+My responsibilities was to:
     * Tutoring in lab
     * Exam invigilation
     * Code and exam marking
     * Supervising a software engineering master student
+
 
 Heading 1
 ======
