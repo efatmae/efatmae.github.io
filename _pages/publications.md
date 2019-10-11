@@ -11,7 +11,7 @@ author_profile: true
   You can also find my publications on {% if site.author.dblp %} <a href="{{site.author.dblp}}">my dblp profile</a> {% endif %} {% if site.author.googlescholar and site.author.dblp %} and {% endif %} {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
  {% endif %}
 
-<h3>Year of Publication</h3>
+<h3>2013</h3>
 <ul style="padding-left: 1em;">
 {% for post in site.publications reversed  %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
