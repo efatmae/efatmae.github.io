@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_activities/July_2018_PWA.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2017-03-CArD.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2017-12-Google-Summit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2018-02-CArD.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2018-02-CGO.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2018-03-SPLS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2018-04-CPC.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2018-04-ISPASS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2018-10-TAM.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2018-Heriot-Watt.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/2019-03-SPLS.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_pages/talks.html" afterPath="$PROJECT_DIR$/_pages/Activities.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_talks/2019-07-ACACES.md" afterPath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md" afterPath="$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown_generator/talks.py" afterPath="$PROJECT_DIR$/markdown_generator/talks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/talkmap.py" afterPath="$PROJECT_DIR$/talkmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_pages/activities.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_pages/Activities.html" afterPath="" />
     </list>
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,41 +24,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-winter-teaching_IT_Programming.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md">
+      <file leaf-file-name="activities.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_pages/activities.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="198">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="July_2018_PWA.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_activities/July_2018_PWA.md">
+      <file leaf-file-name="cv.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/cv.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="828">
+              <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_2019_Mental_health_support_group.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md">
+      <file leaf-file-name="publications.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_pages/publications.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activities.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_pages/activities.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="180">
+              <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -165,20 +139,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="efatmae.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="efatmae.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="efatmae.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_teaching" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -493,14 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/cv.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_teaching/2018-winter-teaching_IT_Programming.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -549,14 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/teaching.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -597,10 +541,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/activities.html">
+    <entry file="file://$PROJECT_DIR$/_pages/cv.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="828">
+          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/activities.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
