@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download here: [link] (<https://efatmae.github.io/files/publications/2013/Msc_thesis_2011.pdf>)
+[link **Download CV**] (<https://efatmae.github.io/files/Fatma Elsafoury_cv.pdf>)
 
 Education
 ------
