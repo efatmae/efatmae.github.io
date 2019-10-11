@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 
 * <b>Automatic Detection of Cyberbullying:</b> To develop an automated safeguarding platform to prevent misuse of collabo-
     rative platforms used within the education sector. That would happen through
