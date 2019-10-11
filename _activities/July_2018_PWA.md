@@ -13,12 +13,3 @@ location: "Ibadaan, Nigeria"
 * Teaching Python (Basic programming)
 * Teaching Data science toolkit (Pandas, Numpy and MatplotLib)
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

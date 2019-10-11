@@ -12,11 +12,3 @@ location: "Dundee, The UK"
 * Helping students with machine learning and Python assignments.
 * Marking machine learning and Python assignments.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

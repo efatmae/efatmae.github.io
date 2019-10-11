@@ -14,11 +14,4 @@ location: "Glasgow, The UK"
 * Code and exam marking
 * Supervising a software engineering master student
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

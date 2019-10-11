@@ -13,12 +13,3 @@ location: "Glasgow, The UK"
 at computing Science school, Glasgow University.
 * One of the runners of the weekly sessions to support the PhD students.
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

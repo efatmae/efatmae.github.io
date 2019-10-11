@@ -14,12 +14,3 @@ location: "Glasgow, The UK"
 * Teaching UX-Design
 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
