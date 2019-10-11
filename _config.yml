@@ -238,17 +238,19 @@ defaults:
       path: ""
       type: activities
     values:
-      layout: activities
+      layout: single
       author_profile: true
       share: true
+      comments: true
   # _awards
   - scope:
       path: ""
       type: awards
     values:
-      layout: awards
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
