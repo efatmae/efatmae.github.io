@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----------------
+---
 
 {% include base_path %}
 
@@ -15,24 +15,24 @@ Education
 * M.Sc. in GeoInformatics, Twente University, Twente, The Netherlands, 2013
 * M.Sc. in DataScience, Glasgow university, 2019
 
-Work experience
+Academic experience
 ---------------
-* August 2019: KTP Research Associate
-  * University of the West of Scotland (UWS)
-  * Project: Working on automatic detection of cyberbullying
-  * Supervisor: Naeem Ramazan
+* <b>August 2019<b>: KTP Research Associate
+  * <b>University:<b> Computing Science School, University of the West of Scotland (UWS)
+  * <b>Project:<b> Working on automatic detection of cyberbullying
+  * <b>Supervisor:<b> Naeem Ramazan
 
-* April 2019 to August 2019: DataScience Lecturer (Part-time)
-  * Dundee University
-  * Duties included:
+* <b>April 2019 to August 2019:<b> DataScience Lecturer (Part-time)
+  * <b>University:<b> Dundee University
+  * <b>Duties included:<b>
       * Helping students with Machine learning assignments
 	  * Marking assignments
 
-* 2014 to 2018: Research Assistant
-  * Glasgow University
-  * Project: Detecting violent incidents from tweets during elections and protests.
-  * Supervisor: Bjorn Sand Jensen
-  * Duties included:
+* <b>2014 to 2018:<b> Research Assistant
+  * <b>University:<b> Glasgow University
+  * <b>Project:<b> Detecting violent incidents from tweets during elections and protests.
+  * <b>Supervisor:<b> Bjorn Sand Jensen
+  * <b>Duties included:<b>
      * Pre-processing data
      * Create Machine learning models
      * Analyse model’s performance
