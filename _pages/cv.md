@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. Computing Science, Helwan University, Cairo, Egypt, 2008
 * M.Sc. in GeoInformatics, Twente University, Twente, The Netherlands, 2013
 * M.Sc. in DataScience, Glasgow university, 2019
 
-Academic experience
+## Academic experience
 ------
-* <b>August 2019<b>: KTP Research Associate
-  * <b>University:<b> Computing Science School, University of the West of Scotland (UWS)
-  * <b>Project:<b> Working on automatic detection of cyberbullying
-  * <b>Supervisor:<b> Naeem Ramazan
+* **August 2019:** KTP Research Associate
+  * **University:** Computing Science School, University of the West of Scotland (UWS)
+  * **Project:** Working on automatic detection of cyberbullying
+  * **Supervisor:** Naeem Ramazan
 
 * <b>April 2019 to August 2019:<b> DataScience Lecturer (Part-time)
   * <b>University:<b> Dundee University
