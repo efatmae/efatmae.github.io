@@ -1,6 +1,6 @@
 ---
 title: "PhD Support Group Memebr"
-collection: activities
+collection: "activities"
 type: "PhD support Group Sessions"
 permalink: /activities/2018_2019_Mental_health_support_group
 venue: "Computing Science School, Glasgow University"
