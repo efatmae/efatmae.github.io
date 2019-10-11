@@ -8,7 +8,9 @@ date: "April 2019"
 location: "Dundee, The UK"
 ---
 
-My responsibilities was to help students with machine learning and Python assignments.
+<b>My responsibilities was to:<b> <br />
+* Helping students with machine learning and Python assignments.
+* Marking machine learning and Python assignments.
 
 Heading 1
 ======

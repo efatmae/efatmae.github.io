@@ -8,11 +8,11 @@ date: "Sept 2018"
 location: "Glasgow, The UK"
 ---
 
-My responsibilities was to:
-    * Tutoring in lab
-    * Exam invigilation
-    * Code and exam marking
-    * Supervising a software engineering master student
+<b>My responsibilities was to:<b> <br />
+* Tutoring in lab
+* Exam invigilation
+* Code and exam marking
+* Supervising a software engineering master student
 
 Heading 1
 ======

@@ -8,7 +8,7 @@ date: "Sept 2018"
 location: "Glasgow, The UK"
 ---
 
-My responsibilities was to:<br />
+<b>My responsibilities was to:<b> <br />
 * Tutoring in lab
 * Exam invigilation
 * Code and exam marking
