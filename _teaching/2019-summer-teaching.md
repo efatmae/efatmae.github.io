@@ -4,7 +4,7 @@ collection: teaching
 type: "Course lab"
 permalink: /teaching/2019-summer-teaching
 venue: "Dundee University, Computing Science"
-date: 2019
+date: "April 2019"
 location: "Dundee, The UK"
 ---
 
