@@ -1,8 +1,8 @@
 ---
 title: "PhD Support Group Member"
-collection: "activities"
+collection: "awards"
 type: "PhD support Group Sessions"
-permalink: /activities/2018_2019_Mental_health_support_group
+permalink: /awards/2018_2019_Mental_health_support_group
 venue: "Computing Science School, Glasgow University"
 date: "2018-2019"
 location: "Glasgow, The UK"
