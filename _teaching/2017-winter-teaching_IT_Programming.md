@@ -1,17 +1,18 @@
 ---
-title: "Web Development Instructor"
-collection: activities
-type: "Workshop"
-permalink: /activities/Sep_2018_Code_for_girls
-venue: "Code First Girls"
+title: "Java Programming"
+collection: teaching
+type: "course lab"
+permalink: /teaching/2017-winter-teaching_IT_Programming
+venue: "Glasgow University, Computing Science"
 date: "Sept 2018"
 location: "Glasgow, The UK"
 ---
 
 <b>My responsibilities was to:<b> <br />
-* Teaching HTML, CSS, JavaScript, Bootstrap and JQuery
-* Teaching GitHub
-* UX Design
+* Tutoring in lab
+* Exam invigilation
+* Code and exam marking
+* Supervising a software engineering master student
 
 Heading 1
 ======
