@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<b>[Download CV]</b>(https://efatmae.github.io/files/Fatma Elsafoury_cv.pdf)
+<b>[Download CV](https://efatmae.github.io/files/Fatma Elsafoury_cv.pdf)<b>
 
 Education
 ------
