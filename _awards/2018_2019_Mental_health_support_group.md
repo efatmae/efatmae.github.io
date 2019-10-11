@@ -4,7 +4,7 @@ collection: "awards"
 type: "PhD support Group Sessions"
 permalink: /awards/2018_2019_Mental_health_support_group
 venue: "Computing Science School, Glasgow University"
-date: "2019"
+date: "Aug 2018"
 location: "Glasgow, The UK"
 ---
 
