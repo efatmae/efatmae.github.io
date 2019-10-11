@@ -4,7 +4,7 @@ collection: teaching
 type: "Course lap"
 permalink: /teaching/2018-winter-teaching_Computer_Programming
 venue: "Glasgow University, Computing Science"
-date: Winter 2017
+date: 2017
 location: "Glasgow, The UK"
 ---
 
