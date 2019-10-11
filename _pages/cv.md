@@ -16,7 +16,7 @@ Education
 * M.Sc. in DataScience, Glasgow university, 2019
 
 Academic experience
-======
+------
 * <b>August 2019<b>: KTP Research Associate
   * <b>University:<b> Computing Science School, University of the West of Scotland (UWS)
   * <b>Project:<b> Working on automatic detection of cyberbullying
@@ -41,3 +41,5 @@ Academic experience
      * Writing reports
      * Wrote my MSc thesis as part of the project
 
+Work experience
+------
