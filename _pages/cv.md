@@ -5,18 +5,18 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+---------------
 
 {% include base_path %}
 
 Education
-======
+---------------
 * B.S. Computing Science, Helwan University, Cairo, Egypt, 2008
 * M.Sc. in GeoInformatics, Twente University, Twente, The Netherlands, 2013
 * M.Sc. in DataScience, Glasgow university, 2019
 
 Work experience
-======
+---------------
 * August 2019: KTP Research Associate
   * University of the West of Scotland (UWS)
   * Project: Working on automatic detection of cyberbullying
