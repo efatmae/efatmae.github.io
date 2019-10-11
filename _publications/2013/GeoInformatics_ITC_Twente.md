@@ -7,5 +7,5 @@ authors: "Elsafoury, Fatma"
 Institution: "ITC, Twente University"
 eptember 1-4, 2014. Proceedings"
 paperurl: 'https://pdfs.semanticscholar.org/38ae/527f601eb74a0302266284efdda7e4582c41.pdf'
-bibtexurl: '/files/publications/2013/Msc_thesis_2011.bib'
+bibtexurl: '/files/publications/2013/GeoInformatics_ITC_Twente.bib'
 ---

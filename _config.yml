@@ -83,7 +83,7 @@ author:
   bio              : "I'm a KTP Research associate, Computing Science, UWS"
   location         : "Glasgow, The UK"
   employer         :
-  googlescholar    : #"https://scholar.google.com/citations?user=yLcaHaAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=yLcaHaAAAAAJ&hl=en"
   email            : "fatma.elsafoury@uws.ac.uk"
   uri              :
   bitbucket        : #"b_hagedorn"
