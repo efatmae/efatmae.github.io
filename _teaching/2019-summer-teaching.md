@@ -9,12 +9,17 @@ location: "Dundee, The UK"
 ---
 
 
-Heading 1
-======
 * Courses:
     * Data Science : Python
 
-Heading 2
-======
 * Responsibility:
     * Helping students with machine learning and Python assignments
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
