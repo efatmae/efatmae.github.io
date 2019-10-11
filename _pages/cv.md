@@ -23,16 +23,16 @@ Academic experience
   * <b>Supervisor:</b> Naeem Ramazan
 
 * <b>April 2019 to August 2019:<b> DataScience Lecturer (Part-time)
-  * <b>University:<b> Dundee University
-  * <b>Duties included:<b>
+  * <b>University:</b> Dundee University
+  * <b>Duties included:</b>
       * Helping students with Machine learning assignments
 	  * Marking assignments
 
-* <b>2014 to 2018:<b> Research Assistant
-  * <b>University:<b> Glasgow University
-  * <b>Project:<b> Detecting violent incidents from tweets during elections and protests.
-  * <b>Supervisor:<b> Bjorn Sand Jensen
-  * <b>Duties included:<b>
+* <b>2014 to 2018:</b> Research Assistant
+  * <b>University:</b> Glasgow University
+  * <b>Project:</b> Detecting violent incidents from tweets during elections and protests.
+  * <b>Supervisor:</b> Bjorn Sand Jensen
+  * <b>Duties included:</b>
      * Pre-processing data
      * Create Machine learning models
      * Analyse model’s performance
@@ -43,3 +43,11 @@ Academic experience
 
 Work experience
 ------
+* <b>2013 to 2014:</b> Geographical Information Systems (GIS) Software Engineer
+  * <b>Company:</b> ESRI North East Africa (ESRINEA), Cairo, Egypt
+  * <b>Duties:</b> Responsible of developing web-mapping applications using Java script, ArcGIS web
+
+* <b>2009 to 2011:</b> Geographical Information Systems (GIS) Developer
+  * <b>Company:</b> ICON Technologies, Cairo, Egypt
+  * <b>Duties:</b> Responsible of designing and developing GIS web and desktop applications using C#, ASP.net and ArcGIS
+
