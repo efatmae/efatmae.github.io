@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" afterPath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_activities/July_2018_PWA.md" afterPath="$PROJECT_DIR$/_activities/July_2018_PWA.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" afterPath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_awards/2011-2013.md" afterPath="$PROJECT_DIR$/_awards/2011-2013.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_awards/2014-2018-LKAS.md" afterPath="$PROJECT_DIR$/_awards/2014-2018-LKAS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/activities.html" afterPath="$PROJECT_DIR$/_pages/activities.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md" afterPath="$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_teaching/2018-winter-teaching_Computational_thinking.md" afterPath="$PROJECT_DIR$/_teaching/2018-winter-teaching_Computational_thinking.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_teaching/2018-winter-teaching_Computer_Programming.md" afterPath="$PROJECT_DIR$/_teaching/2018-winter-teaching_Computer_Programming.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_teaching/2018-winter-teaching_IT_Programming.md" afterPath="$PROJECT_DIR$/_teaching/2018-winter-teaching_IT_Programming.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_teaching/2019-summer-teaching.md" afterPath="$PROJECT_DIR$/_teaching/2019-summer-teaching.md" />
-    </list>
+    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="" />
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
