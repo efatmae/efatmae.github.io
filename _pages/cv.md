@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download here: [a link] ('https://efatmae.github.io/files/publications/2013/Msc_thesis_2011.pdf')
+Download here: [link] (<https://efatmae.github.io/files/publications/2013/Msc_thesis_2011.pdf>)
 
 Education
 ------
