@@ -3,6 +3,6 @@ title: "Teargas, Water Cannons and Twitter: A case study on detecting protest re
 collection: publications
 type: "Conference Workshop Paper"
 date: 2020-04
-author: Fatma Elsafoury
-bibtexurl: '/files/publications/2020/text2story.bib'
+author: "Fatma Elsafoury"
+bibtexurl: '/files/publications/2020/Text2Story_workshop.bib'
 ---
