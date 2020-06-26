@@ -4,5 +4,5 @@ collection: publications
 type: "Conference Workshop Paper"
 date: 2020-04
 author: Fatma Elsafoury
-bibtexurl: '/files/publications/2020/Text2Story_workshop.bib'
+bibtexurl: '/files/publications/2020/text2story.bib'
 ---
