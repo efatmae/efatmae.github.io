@@ -1,28 +1,13 @@
----
-layout: archive
-title: "Research Projects"
-permalink: /research/
-author_profile: true
-redirect_from:
-  - /research
----
+<p>I’m interested in social science computing. In particular, using ML and NLP to explore the opportunities and threats of social media. </p>
 
-{% include base_path %}
-
-
-* <b>Automatic Detection of Cyberbullying:</b> To develop an automated safeguarding platform to prevent misuse of collabo-
-    rative platforms used within the education sector. That would happen through
-    using machine learning models to detect incidents of cyber bullying and children
-    grooming from school forums.
-
-    * <b>Keywords: ML, NLP, Cyberbullying and Child-grooming</b>
-
-
-* <b>Measuring electoral and protest violence from tweets:</b>
-    The project is interdisciplinary project between computing science school and school of political science.
-    We worked on detecting violence in tweets during elections and during protests.
-    We also worked on detecting fraud during the Scottish referendum 2014.
-    Worked with Tweets from Venezuela elections 2015, Indian elections 2016
-    and Turkish Gezi protest 2013.
-
-    * <b>Keywords: ML, NLP, Protest Repression and Electoral Violence</b>
+<p>
+More generally, I’m interested in developing tools to mitigate the dark
+side of social media. My first research goal is the detection of
+users experiencing an echo chamber environment and providing
+them with a healthy variety in their news feeds. The
+second goal is using social media as a tool for improving mental
+health by detecting potential mental health problems and developing tools
+that might offer help. I’m considering approaching these research goals
+from the perspective of Natural language understanding using tools such as
+multimodal models (text and images) and model compression.
+</p>
