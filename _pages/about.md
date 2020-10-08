@@ -11,8 +11,8 @@ I'm a KTP (Knowledge Transfer Partnership) research associate at the university 
 The KTP project is a partnership between the school of Computing at UWS and Seric Systerms. The project is about building safeguard platform,
 using Machine Learning models (ML) and Natural lnaguage processing (NLP), to protect collaboration platforms from cyber-bullying.
 
-My research interests can be found here /research
+* My research interests can be found [here] (research.md)
 
-My Publications url: /research/
+* A list of [my publications ](publications.md)
 
-My CV url: /research/
+* My [CV] (cv.md)

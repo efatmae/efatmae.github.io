@@ -3,8 +3,6 @@ layout: single
 title: "Blog"
 permalink: /blog/
 author_profile: true
-redirect_from:
-  - /posts
 ---
 {% include base_path %}
 
