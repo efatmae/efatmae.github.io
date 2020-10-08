@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Blog"
-permalink: /blog/
+permalink: /posts/
 author_profile: true
 ---
 {% include base_path %}
