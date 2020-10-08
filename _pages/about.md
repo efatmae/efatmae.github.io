@@ -13,6 +13,6 @@ using Machine Learning models (ML) and Natural lnaguage processing (NLP), to pro
 
 My research interests can be found here /research
 
-My Publications /research
+My Publications url: /research/
 
-My CV /cv
+My CV url: /research/
