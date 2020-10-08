@@ -4,8 +4,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Volunteering"
-    url: /activities/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Awards"
     url: /awards/
@@ -13,8 +16,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Volunteering"
+    url: /activities/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Blog"
+    url: /posts/
