@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Research Projects"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research
+---
+
+{% include base_path %}
 <p>I’m interested in social science computing. In particular, using ML and NLP to explore the opportunities and threats of social media. </p>
 
 <p>
