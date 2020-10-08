@@ -182,9 +182,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+ #   output: true
+  #  permalink: /:collection/:path/
   awards:
     output: true
     permalink: /:collection/:path/
@@ -201,10 +201,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
       share: true
-      related: true
+      comments: true
   # _pages
   - scope:
       path: ""
@@ -240,14 +238,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+ # - scope:
+ #     path: ""
+ #     type: portfolio
+ #   values:
+ #     layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _activities
   - scope:
       path: ""
