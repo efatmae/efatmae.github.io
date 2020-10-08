@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<b>_[Download CV](https://efatmae.github.io/files/Fatma Elsafoury_cv.pdf)_</b>
-
 Education
 ------
-* B.S. Computing Science, Helwan University, Cairo, Egypt, 2008
-* M.Sc. in GeoInformatics, Twente University, Twente, The Netherlands, 2013
 * M.Sc. in DataScience, Glasgow university, 2019
+* M.Sc. in GeoInformatics, Twente University, Twente, The Netherlands, 2013
+* B.S. Computing Science, Helwan University, Cairo, Egypt, 2008
+
 
 Academic experience
 ------
