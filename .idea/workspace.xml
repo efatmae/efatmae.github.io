@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/Crowdsourcing.md" afterPath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" afterPath="$PROJECT_DIR$/_posts/2018-09-11-blog-post-1.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/guid-to-figure-8.md" afterPath="$PROJECT_DIR$/_posts/2018-09-12-blog-post-2.md" />
     </list>
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,12 +39,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2012-08-14-blog-post-1.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md">
+      <file leaf-file-name="2018-09-11-blog-post-1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-11-blog-post-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -54,12 +54,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guid-to-figure-8.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/guid-to-figure-8.md">
+      <file leaf-file-name="2018-09-12-blog-post-2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-09-12-blog-post-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
-                <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <first_editor relative-caret-position="-232">
+                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -183,6 +183,8 @@
         <option value="$PROJECT_DIR$/_posts/Crowdsourcing.md" />
         <option value="$PROJECT_DIR$/_posts/guid-to-figure-8.md" />
         <option value="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-11-blog-post-1.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-12-blog-post-2.md" />
       </list>
     </option>
   </component>
@@ -1095,11 +1097,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/guid-to-figure-8.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-11-blog-post-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1108,11 +1110,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-12-blog-post-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <first_editor relative-caret-position="-232">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor>
