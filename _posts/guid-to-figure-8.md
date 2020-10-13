@@ -2,7 +2,7 @@
 title: "Guidelines to Figure-Eight (CrowdFlower) Platform"
 date: "2018-09-11"
 collection: "posts"
-permalink: /posts/guid_to_figure_8
+permalink: /posts/guid-to-figure-8
 tags:
   - Crowdsourcing
   - Crowdflower
@@ -48,4 +48,3 @@ To calculate the confidence score, the following steps are taken:
 2. Sum the scores for all the responding contributors tweets sum of contributors trust scores (positive + negative)
 3. To get the confidence score for each response (positive/negative) divide 1 by 2
 4. Finally the response with the highest confidence level is the one chosen for the aggregation report.
----
