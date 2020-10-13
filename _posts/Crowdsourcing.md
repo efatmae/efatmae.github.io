@@ -3,10 +3,6 @@ title: "Crowdsourcing"
 date: "2018-09-11"
 collection: "posts"
 permalink: /posts/Crowdsourcing
-tags:
-  - Ground truth
-  - Data annotation
-  - Machine learning
 ---
 
 What is crowdsourcing?
@@ -21,3 +17,8 @@ With entering the era of big data, there is a lot of digital material that could
 
 There are several crowdsourcing platforms to use. Depending on the nature of the task you can choose the one that suits you best.  The platforms that are usually used for research purposes are [Amazon Mechanical Turk] [1][https://www.mturk.com/], [Figure-Eight][https://www.figure-eight.com/]
 (used to be known as Crowd-Flower), [Click-Worker][https://www.clickworker.com/] and [Prolific Academia][https://prolific.ac/]. For business purposes, there are [Up-work][https://www.upwork.com/] and [Top-Coder][https://www.topcoder.com/].
+
+tags:
+  - Ground truth
+  - Data annotation
+  - Machine learning
