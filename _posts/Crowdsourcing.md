@@ -1,7 +1,7 @@
 ---
 title: 'Crowdsourcing'
 date: 2018-09-11
-permalink: /Crowdsourcing/
+permalink: /posts/Crowdsourcing/
 tags:
   - Ground truth
   - Data annotation

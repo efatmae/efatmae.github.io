@@ -1,7 +1,7 @@
 ---
 title: 'Guidelines to Figure-Eight (CrowdFlower) Platform'
 date: 2018-09-11
-permalink: /guid_to_figure_8/
+permalink: /posts/guid_to_figure_8/
 tags:
   - Crowdsourcing
   - Crowdflower
