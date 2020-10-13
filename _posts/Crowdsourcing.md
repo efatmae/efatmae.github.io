@@ -5,13 +5,13 @@ permalink: /posts/Crowdsourcing
 ---
 
 What is crowdsourcing?
-======
+
 “Remember outsourcing? Sending jobs to India and China is so 2003. The new pool of cheap labor: everyday people using their spare cycles to create content, solve problems, even do corporate R & D.” By Jeff Howe
 
 The word Crowdsourcing is a portmanteau of the words “crowd” and “outsourcing”. It means outsourcing a problem to a crowd rather than an expert (Haciyakupoglu & Zhang, 2015).  This is because in some cases, there are difficulties in finding the experts to solve the problem due to limitations in finding the expert, money or time. In crowdsourcing the problem is broadcasted to a crowd so that potential solvers can step in and propose solutions. With the wide use of the Internet and Information technologies, outsourcing problem to crowds became easier which means more use of crowdsourcing (Tucci, Afuah, & Viscusi, 2018).  A crowdsourcing’s process works in the following way: An organization (called a customer) releases a task online through a crowdsourcing platform to a crowd of outsiders. Then a group of interested people (called contributors) perform and submit the task to the same crowdsourcing platform for a fee or any other incentives. Crowdsourcing is not only limited to business organizations. Non-profit organizations and academic organizations also use crowdsourcing (Zhao & Zhu, 2014). The traditional way of collecting information from a crowd is traditional surveys. In traditional surveys, a representative sample is selected and contacted via telephone, mail or face-to-face interviews. These methods are usually expensive and time consuming. Crowdsourcing on the other hand is could be considered as an Internet based survey through crowdsourcing platforms where the crowds are easily contacted and for a smaller fee (De Winter, Kyriakidis, Dodou, & Happee, 2015).
 
 Crowdsourcing and data preparation
-==================================
+
 With entering the era of big data, there is a lot of digital material that could be used to train machine-learning models. Machine learning mainly used crowd sourcing for that matter to obtain labels for the unlabelled data. However, Data generation is not the only way that machine learning can use crowdsourcing. Evaluating models: where crowdsourcing is used to evaluate r debug models like unsupervised machine learning which can be difficult to evaluate since there is no ground truth. Hybrid AI systems: Where AI systems can use people’s common sense and knowledge to cluster data points or predict social or political events.  Behavioural studies to inform machine-learning research: Crowdsourcing gives opportunity to psychologists and social scientists to behavioural experiments regarding how humans interact with technology and machine learning models (Vaughan, 2017).
 
 There are several crowdsourcing platforms to use. Depending on the nature of the task you can choose the one that suits you best.  The platforms that are usually used for research purposes are [Amazon Mechanical Turk] [1][https://www.mturk.com/], [Figure-Eight][https://www.figure-eight.com/]
