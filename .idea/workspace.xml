@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post3/Screenshot_2020-10-17_12.28.02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post3/Screenshot_2020-10-17_12.28.16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post3/Screenshot_2020-10-17_12.28.29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post3/Screenshot_2020-10-17_12.28.38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post3/Screenshot_2020-10-17_12.28.47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post3/Screenshot_2020-10-17_12.28.57.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2018-01-31-blog-post-3" afterPath="$PROJECT_DIR$/_posts/2018-01-31-blog-post-3.md" />
     </list>
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,12 +53,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-31-blog-post-3" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-31-blog-post-3">
+      <file leaf-file-name="2018-01-31-blog-post-3.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-31-blog-post-3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1710">
-                <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -221,6 +215,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-09-12-blog-post-2.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-11-blog-post-1.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-31-blog-post-3" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-31-blog-post-3.md" />
       </list>
     </option>
   </component>
@@ -303,6 +298,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Post3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efatmae.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efatmae.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1101,11 +1110,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-31-blog-post-3">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-31-blog-post-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1710">
-            <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
             <folding />
           </first_editor>
           <second_editor>
