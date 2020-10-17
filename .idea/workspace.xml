@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="" />
+    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post4/Screenshot_020-10-17_14.08.25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Post4/Screenshot_2020-10-17_14.07.50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-02-10-blog-post-4.md" />
+    </list>
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-31-blog-post-3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
+              <first_editor relative-caret-position="648">
                 <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="61" />
                 <folding />
               </first_editor>
@@ -1104,7 +1108,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-31-blog-post-3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
+          <first_editor relative-caret-position="648">
             <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="61" />
             <folding />
           </first_editor>
