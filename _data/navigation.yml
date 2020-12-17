@@ -14,7 +14,7 @@ main:
     url: /awards/
 
   - title: "Rejections"
-    url: /rejections.md/
+    url: /rejections/
 
   - title: "Teaching"
     url: /teaching/
