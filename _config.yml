@@ -191,6 +191,9 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
+  rejections:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -267,7 +270,7 @@ defaults:
   # _rejections
   - scope:
       path: ""
-      type: rejections.md
+      type: rejections
     values:
       layout: single
       author_profile: true
