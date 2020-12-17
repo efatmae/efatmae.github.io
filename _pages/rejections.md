@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rejections"
+title: "Struggles"
 permalink: /rejections/
 author_profile: true
 ---
