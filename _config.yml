@@ -191,7 +191,7 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
-  rejections:
+  struggles:
     output: true
     permalink: /:collection/:path/
 
@@ -267,10 +267,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _rejections
+  # _struggles
   - scope:
       path: ""
-      type: rejections
+      type: struggles
     values:
       layout: single
       author_profile: true

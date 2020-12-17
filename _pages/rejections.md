@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Struggles"
-permalink: /rejections/
+permalink: /struggles/
 author_profile: true
 ---
 {% include base_path %}
