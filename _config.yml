@@ -267,7 +267,7 @@ defaults:
   # _rejections
   - scope:
       path: ""
-      type: rejections
+      type: rejections.md
     values:
       layout: single
       author_profile: true
