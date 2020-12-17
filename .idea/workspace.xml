@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_pages/rejections.md" afterPath="$PROJECT_DIR$/_pages/struggles.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_rejections/2018.md" afterPath="$PROJECT_DIR$/_struggles/2018.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_rejections/2020.md" afterPath="$PROJECT_DIR$/_struggles/2020.md" />
     </list>
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/struggles.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <first_editor relative-caret-position="90">
+                <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -39,7 +40,7 @@
         </entry>
       </file>
       <file leaf-file-name="2018.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_rejections/2018.md">
+        <entry file="file://$PROJECT_DIR$/_struggles/2018.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="54">
@@ -54,7 +55,7 @@
         </entry>
       </file>
       <file leaf-file-name="2020.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_rejections/2020.md">
+        <entry file="file://$PROJECT_DIR$/_struggles/2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="54">
@@ -198,7 +199,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_rejections" />
+              <option name="myItemId" value="_struggles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -982,7 +983,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_rejections/2020.md">
+    <entry file="file://$PROJECT_DIR$/_struggles/2020.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
@@ -1021,7 +1022,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_rejections/2018.md">
+    <entry file="file://$PROJECT_DIR$/_struggles/2018.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
@@ -1045,8 +1046,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/struggles.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <first_editor relative-caret-position="90">
+            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor>
