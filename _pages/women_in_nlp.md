@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Women in NLP"
 permalink: /women_in_nlp/
 author_profile: true
@@ -10,6 +10,7 @@ To suggest a guest please contact me on e.fatma.e@gmail.com
 
 We also organize online meetings where women come together to support one another.
 To know about these meetings please join the #women_in_nlp channel on Slack https://dairai.slack.com/archives/C01J0GXJMD1.
+
 {% for post in site.women_in_nlp reversed %}
 {% include archive-single.html %}
 {% endfor %}
