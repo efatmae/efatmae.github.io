@@ -173,9 +173,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
+  #projects:
+    #output: true
+    #permalink: /:collection/:path/
   posts:
     output: true
     permalink: /:collection/:path/
@@ -192,6 +192,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   struggles:
+    output: true
+    permalink: /:collection/:path/
+  women_in_nlp:
     output: true
     permalink: /:collection/:path/
 
@@ -271,6 +274,15 @@ defaults:
   - scope:
       path: ""
       type: struggles
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # women_in_nlp
+  - scope:
+      path: ""
+      type: women_in_nlp
     values:
       layout: single
       author_profile: true

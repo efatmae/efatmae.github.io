@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+   # url: /research/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+ # - title: "Projects"
+ #   url: /projects/
 
   - title: "Awards"
     url: /awards/
@@ -24,6 +24,9 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "women_in_nlp"
+    url: /women_in_nlp.md/
 
   - title: "Blog"
     url: /posts/
