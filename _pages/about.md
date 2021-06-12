@@ -7,18 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a KTP (Knowledge Transfer Partnership) research associate at the university of the West of Scotland (UWS).
-The KTP project is a partnership between the school of Computing at UWS and Seric Systerms. The project is about building safeguard platform,
-using Machine Learning models (ML) and Natural lnaguage processing (NLP), to protect collaboration platforms from cyber-bullying.
+I'm a PhD student and a KTP (Knowledge Transfer Partnership) research associate at the university of the West of Scotland (UWS).
 
 Research
 ========
-I'm interested in exploring the opportunities and threats social media.
-In particular, detecting cyberbullying/hate speech, mental health problems and echo chamber environments.
-
-To achieve that, I use Machine learning (ML) and Natural Language Processing (NLP) to analyse user generated content.
+I'm interested in studying the opportunities and threats of social media.
+Recently, I became interested in studying the bias in pre-trained NLP models like BERT and Word Embeddings.
 
 
-* A list of [my publications](publications.md)
+* Here is a list of [my publications](publications.md)
 
-* My [CV](cv.md)
+* Download my [CV]('/files/CV')

@@ -1,7 +1,7 @@
 ---
 title: "Bad Advice I Took to Heart with Rachael Tatman"
 collection: "women_in_nlp"
-permalink: /women_in_nlp/rachael-talk/
+permalink: "/women_in_nlp/2021-Feb-rachael-talk"
 ---
 Talk Description:
 =======
