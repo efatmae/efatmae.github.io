@@ -2,7 +2,7 @@
 title: "Does BERT Pay Attention To Cyberbullying?"
 collection: publications
 type: "Conference Short Paper"
-date: 2021
+date: 2021-07-11
 authors: "Fatma Elsafoury, Stamos Katsigiannis, Steven R. Wilson, and Naeem Ramzan"
 Conference: "SIGIR 2021"
 paperpdf: '/files/publications/2021/sigir_2021.pdf'
