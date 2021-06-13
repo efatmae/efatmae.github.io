@@ -20,7 +20,7 @@ To know more about me:
 ======================
 * This is a list of [my publications](publications.md)
 * A list of [my talks](talks.md)
-* My initiative monthly talk series [womenInNlp](womenInNlp.md)
+* Past talks of [Women_in_NLP](womenInNlp.md)
 * My volunteering [activities](activities.md)
 * Sometimes, I write posts about different things [posts](posts.md)
 * View my [CV](files/CV.pdf)
