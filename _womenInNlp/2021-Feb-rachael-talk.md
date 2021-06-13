@@ -5,7 +5,6 @@ permalink: /womenInNlp/2021-Feb-rachael-talk
 ---
 Talk Description:
 =======
-Bad Advice I Took to Heart: A quick tour of some of my professional mistakes, why none of them actually ruined my life, and my own bad advice for women in NLP
 ![alt text](/images/women_in_nlp/rachael_tatman.jpeg)
 
 Speaker:

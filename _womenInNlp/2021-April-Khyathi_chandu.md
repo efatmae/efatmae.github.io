@@ -1,11 +1,10 @@
 ---
-title: "Bad Advice I Took to Heart with Rachael Tatman"
+title: "Content Anchoring In Multimodal Texts: A Peek into the Prequel"
 collection: womenInNlp
-permalink: /womenInNlp/2021-Feb-rachael-talk
+permalink: /womenInNlp/2021-April-Khyathi_chandu
 ---
 Talk Description:
 =======
-Content Anchoring In Multimodal Texts: A Peek into the Prequel
 ![alt text](/images/women_in_nlp/Khatnai_chandu.jpeg)
 
 Speaker:
