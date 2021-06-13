@@ -24,6 +24,8 @@ To know more about me:
 * My volunteering [activities](activities.md)
 * Sometimes, I write posts about different things [posts](posts.md)
 * View my [CV](files/CV.pdf)
+* In academia, it is not always easy. I share my [struggles](struggles.md) to normalize paper rejections and struggles as part of the process.
+
 
 
 
