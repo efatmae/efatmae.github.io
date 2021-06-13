@@ -279,10 +279,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # women_in_nlp
+  # _women_in_nlp
   - scope:
       path: ""
-      type: _women_in_nlp
+      type: women_in_nlp
     values:
       layout: single
       author_profile: true
