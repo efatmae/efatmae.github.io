@@ -1,6 +1,7 @@
 ---
 title: "Academia and Industry....There and back again"
 collection: womenInNlp
+date: 2021/06/11
 permalink: /womenInNlp/2021-June-Jasmijn_Bastings
 ---
 Talk Description:

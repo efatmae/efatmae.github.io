@@ -1,6 +1,7 @@
 ---
 title: "Content Anchoring In Multimodal Texts: A Peek into the Prequel"
 collection: womenInNlp
+date: 2021/04/29
 permalink: /womenInNlp/2021-April-Khyathi_chandu
 ---
 Talk Description:

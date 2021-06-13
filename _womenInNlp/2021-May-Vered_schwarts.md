@@ -1,6 +1,7 @@
 ---
 title: "(Hopefully-Reusable) Life Lessons for PhD Students in NLP"
 collection: womenInNlp
+date: 2021/05/14
 permalink: /womenInNlp/2021-May-Vered_schwarts
 ---
 Talk Description:

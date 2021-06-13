@@ -1,6 +1,7 @@
 ---
 title: "Bad Advice I Took to Heart with Rachael Tatman"
 collection: womenInNlp
+date: 2021/02/22
 permalink: /womenInNlp/2021-Feb-rachael-talk
 ---
 Talk Description:
