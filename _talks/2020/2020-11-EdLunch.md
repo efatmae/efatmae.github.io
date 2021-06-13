@@ -1,6 +1,6 @@
 ---
 title: "Does BERT Pay Attention To Attribution?"
-collection: "Invited talks"
+collection: "talks"
 type: "Invited talks"
 permalink: /talks/2020-11-EdLunch
 venue: "72 Language at Edinburgh Lunch"
