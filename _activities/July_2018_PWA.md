@@ -2,6 +2,7 @@
 title: "Python Instructor"
 collection: "activities"
 type: "Workshop"
+date: 2018/07/01
 permalink: /activities/July_2018_PWA
 venue: "Programming Workshop in Africa (PWA), Ibadaan University"
 location: "Ibadaan, Nigeria"
