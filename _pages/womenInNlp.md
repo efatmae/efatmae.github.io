@@ -9,7 +9,7 @@ Women in NLP is an initiative to support and encourage women to work on natural 
 To suggest a guest please contact me on e.fatma.e@gmail.com
 
 We also organize online meetings where women come together to support one another.
-To know about these meetings please join the #_womenInNlp channel on Slack https://dairai.slack.com/archives/C01J0GXJMD1.
+To know about these meetings please join the #Women_in_NLP channel on Slack <a href="https://dairai.slack.com/archives/C01J0GXJMD1">channel on Slack</a>.
 
 {% for post in site.womenInNlp reversed %}
 {% include archive-single.html %}
