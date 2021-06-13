@@ -17,4 +17,4 @@ Recently, I became interested in studying the bias in pre-trained NLP models lik
 
 * Here is a list of [my publications](publications.md)
 
-* View my [files](CV.pdf)
+* View my [CV](files/CV.pdf)

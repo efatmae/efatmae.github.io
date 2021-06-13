@@ -9,5 +9,5 @@ location: "Glasgow, The UK"
 <b>2021 - Now: </b>
 * <b>Workshop:</b> SICSA PhD Peer Support Group
 * <b>Location:</b> Scotland, The UK
-* <br>URL:</br>https://www.sicsa.ac.uk/news-events/sicsa-phd-peer-support-group/
+* <b>URL:</b>https://www.sicsa.ac.uk/news-events/sicsa-phd-peer-support-group/
 

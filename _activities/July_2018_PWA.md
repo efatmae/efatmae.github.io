@@ -10,7 +10,7 @@ location: "Ibadaan, Nigeria"
 * <b>Workshop:</b> PhD support Group Sessions
 * <b>Venue:</b> Computing Science School, Glasgow University
 * <b>Location:</b> Ibadaan, Nigeria
-* <b>My responsibilities was to:<b> <br />
+* <b>My responsibilities was to:<b>
   * Preparing course material
   * Teaching Python (Basic programming)
   * Teaching Data science toolkit (Pandas, Numpy and MatplotLib)
