@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_pages/women_in_nlp.md" afterPath="$PROJECT_DIR$/_pages/womenInNlp.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_women_in_nlp/2021-April-Khyathi_chandu.md" afterPath="$PROJECT_DIR$/_womenInNlp/2021-April-Khyathi_chandu.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_women_in_nlp/2021-Feb-rachael-talk.md" afterPath="$PROJECT_DIR$/_womenInNlp/2021-Feb-rachael-talk.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_women_in_nlp/2021-June-Jasmijn_Bastings" afterPath="$PROJECT_DIR$/_womenInNlp/2021-June-Jasmijn_Bastings.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_women_in_nlp/2021-May-Vered_schwarts.md" afterPath="$PROJECT_DIR$/_womenInNlp/2021-May-Vered_schwarts.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_womenInNlp/2021-Feb-rachael-talk.md" afterPath="$PROJECT_DIR$/_womenInNlp/2021-Feb-rachael-talk.md" />
     </list>
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,12 +38,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="223">
               <caret line="281" column="10" selection-start-line="281" selection-start-column="5" selection-end-line="281" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2021-Feb-rachael-talk.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-Feb-rachael-talk.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-winter-teaching_IT_Programming.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2021-April-Khyathi_chandu.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-April-Khyathi_chandu.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -62,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_awards/2011-2013.md" />
         <option value="$PROJECT_DIR$/_awards/2014-2018-LKAS.md" />
         <option value="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" />
         <option value="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" />
@@ -113,6 +151,7 @@
         <option value="$PROJECT_DIR$/_publications/2020/Text2Story_workshop.md" />
         <option value="$PROJECT_DIR$/_publications/2017/Scottish_referendum.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_womenInNlp/2021-Feb-rachael-talk.md" />
       </list>
     </option>
   </component>
@@ -412,9 +451,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="875" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31541726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31541726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -791,24 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -838,14 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-April-Khyathi_chandu.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-May-Vered_schwarts.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -864,19 +877,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-Feb-rachael-talk.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1079,6 +1079,56 @@
         <state relative-caret-position="223">
           <caret line="281" column="10" selection-start-line="281" selection-start-column="5" selection-end-line="281" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-April-Khyathi_chandu.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_teaching/2017-winter-teaching_IT_Programming.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-Feb-rachael-talk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
