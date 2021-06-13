@@ -194,7 +194,7 @@ collections:
   struggles:
     output: true
     permalink: /:collection/:path/
-  women_in_nlp:
+  womenInNlp:
     output: true
     permalink: /:collection/:path/
 
@@ -279,10 +279,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _women_in_nlp
+  # _womenInNlp
   - scope:
       path: ""
-      type: women_in_nlp
+      type: womenInNlp
     values:
       layout: single
       author_profile: true
