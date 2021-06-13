@@ -5,11 +5,16 @@ permalink: /womenInNlp/2021-Feb-rachael-talk
 ---
 Talk Description:
 =======
-Bad Advice I Took to Heart: A quick tour of some of my professional mistakes, why none of them actually ruined my life, and my own bad advice for women in NLP with Rachel Tatman
+Bad Advice I Took to Heart: A quick tour of some of my professional mistakes, why none of them actually ruined my life, and my own bad advice for women in NLP
+![alt text](/images/women_in_nlp/rachael_tatman.jpeg)
+
+Speaker:
+========
+Rachael Tatman
 
 Date and Time:
 ==============
-Monday the 22nd of Feb 2021 at 18:00 (GMT)
+Monday the 22nd of Feb 2021 at 18:00 (BST)
 
 About the speaker:
 ==================
@@ -18,4 +23,5 @@ http://www.rctatman.com/
 
 Event link:
 ===========
-https://www.meetup.com/dair-ai/events/275962477/
+<a href="https://www.meetup.com/dair-ai/events/275962477/">Meet up link</a>
+
