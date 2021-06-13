@@ -7,7 +7,7 @@ permalink: /activities/2018_2019_Mental_health_support_group
 venue: "Computing Science School, Glasgow University"
 location: "Glasgow, The UK"
 ---
-<b>2018 - 2019: </b>
+<b>2021 - 2020: </b>
 * <b>Workshop:</b> PhD support Group Sessions
 * <b>Venue:</b> Computing Science School, Glasgow University
 * <b>Location:</b> Glasgow, The UK

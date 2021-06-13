@@ -9,6 +9,8 @@ main:
 
  # - title: "Projects"
  #   url: /projects/
+  - title: "Talks"
+    url: /talks/
 
   - title: "Awards"
     url: /awards/
@@ -19,14 +21,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Volunteering"
-    url: /activities/
-
-  - title: "CV"
-    url: /cv/
-
   - title: "women_in_nlp"
     url: /womenInNlp/
+
+  - title: "Volunteering"
+    url: /activities/
 
   - title: "Blog"
     url: /posts/

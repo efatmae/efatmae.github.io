@@ -18,7 +18,7 @@ Monday the 11th of June 2021 at 18:00 (BST)
 
 About the speaker:
 ==================
-Jasmijn Bastings (she/her) is a researcher at Google Amsterdam, having joined Google in Berlin late 2019. She holds a PhD from ILLC, University of Amsterdam, on the topic of Interpretable and Linguistically-informed Deep Learning for NLP. Recently, Jasmijn has been focusing on explainability, fairness and robustness within natural language processing. She is also one of the organizers of BlackBoxNLP: Analyzing and interpreting neural networks for NLP, a workshop collocated with EMNLP 2021.
+Jasmijn Bastings (she/her) is a researcher at Google Amsterdam, having joined Google in Berlin late 2020. She holds a PhD from ILLC, University of Amsterdam, on the topic of Interpretable and Linguistically-informed Deep Learning for NLP. Recently, Jasmijn has been focusing on explainability, fairness and robustness within natural language processing. She is also one of the organizers of BlackBoxNLP: Analyzing and interpreting neural networks for NLP, a workshop collocated with EMNLP 2021.
 https://bastings.github.io/
 
 Event link:

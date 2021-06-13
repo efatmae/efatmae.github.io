@@ -7,7 +7,7 @@ permalink: /activities/Sep_2018_Code_for_girls
 venue: "Code First Girls, Glasgow"
 location: "Glasgow, The UK"
 ---
-<b>Sept 2018:</b>
+<b>Sept 2021:</b>
 * <b>Workshop:</b> Code First Girls
 * <b>Venue:</b> Glasgow University
 * <b>Location:</b> Glasgow, The UK
