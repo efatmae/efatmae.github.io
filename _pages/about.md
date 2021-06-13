@@ -22,7 +22,7 @@ To know more about me:
 * A list of [my talks](talks.md)
 * Past talks of [Women_in_NLP](womenInNlp.md)
 * My volunteering [activities](activities.md)
-* Sometimes, I write posts about different things [posts](posts.md)
+* Sometimes, I write about different things in [posts](posts.md)
 * View my [CV](files/CV.pdf)
 * In academia, it is not always easy. I share my [struggles](struggles.md) to help normalizing paper rejections and setbacks as part of the process.
 
