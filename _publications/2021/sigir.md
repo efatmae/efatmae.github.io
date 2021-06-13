@@ -12,3 +12,4 @@ poster: '/files/publications/2021/Sigir_2021_Poster.pdf'
 presentation: '/files/publications/2021/sigir_presentation.pdf'
 bibtexurl: '/files/publications/2021/sigir.bib'
 ---
+<a href="/files/publications/2021/Sigir_2021_Poster.pdf">Paper Poster</a>

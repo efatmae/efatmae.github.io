@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello, I'm Fatma <br>
 I'm a PhD student and a KTP (Knowledge Transfer Partnership) research associate at the university of the West of Scotland (UWS).<br>
-View my [CV](files/CV.pdf)
+
 
 Research
 ========
@@ -23,6 +23,7 @@ To know more about me:
 * My initiative monthly talk series [womenInNlp](womenInNlp.md)
 * My volunteering [activities](activities.md)
 * Sometimes, I write posts about different things [posts](posts.md)
+* View my [CV](files/CV.pdf)
 
 
 
