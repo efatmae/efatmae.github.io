@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Women in NLP"
-permalink: /women_in_nlp/
+permalink: /womenInNlp/
 author_profile: true
 ---
 {% include base_path %}
