@@ -7,14 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm Fatma <br>
-I'm a PhD student and a KTP (Knowledge Transfer Partnership) research associate at the university of the West of Scotland (UWS).<br>
-
+Hello, my name is Fatma Elsafoury and I'm a second-year Ph.D. student at the University of the West of Scotland.
 
 Research
 ========
-I'm interested in studying the opportunities and threats of social media.
-Recently, I became interested in studying the bias in pre-trained NLP models like BERT and Word Embeddings.
+In my research, I'm interested in social science computing and in particular, social bias, toxicity, hate speech, and fairness. My research interests stem from being a woman from an underrepresented group of people. I understand from my personal and research experiences how bias in NLP and ML applications has a direct impact on the lives of the under-represented groups of people and how hate speech towards minorities has severe implications on society like hate crimes. I believe that these topics are crucial to study now more than ever for building models and communication platforms that are safe, and accessible to all people regardless of their gender, ethnicity, belief, or sexual orientation. In particular, I'm interested in understanding how social biases impact the decisions made by machine learning models regarding toxicity and hate speech detection.
+
+Currently, I'm working on two exciting research questions regarding bias: 1) how does the stereotypical bias in word embeddings influence the decisions made by machine learning models to detect different types of hate speech like sexism, racism, islamophobia, and anti-semitism? 2) Does the presence of stereotypical biases in word embeddings make the ML models more capable to detect hate speech or does it lead to over-fitting and non-generalizability? To answer these research questions, we have started to develop an interpretable metric to measure the different social biases in word embeddings concerning stereotypical words from our datasets instead of the generic stereotypical words that have been used in the literature. Next, we plan to investigate the influence of the biases in word embeddings on downstream tasks of hate speech detection?
 
 To know more about me:
 ======================

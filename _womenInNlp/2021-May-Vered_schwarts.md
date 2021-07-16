@@ -8,6 +8,10 @@ Talk Description:
 =======
 ![alt text](/images/women_in_nlp/Vered_schwarts.jpeg)
 
+Talk Link:
+==========
+<a href="https://www.youtube.com/watch?v=InaCy309V7k&list=PLGSHbNsNO4VifUba7hpTk_EjJK8xc70n3">Talk link</a>
+
 Speaker:
 ========
 Vered Shwartz
@@ -20,6 +24,7 @@ About the speaker:
 ==================
 Vered Shwartz is a postdoctoral researcher at the Allen Institute for AI (AI2) and the Paul G. Allen School of Computer Science & Engineering at the University of Washington. Vered's research interests are in NLP, AI, and machine learning, particularly focusing on commonsense knowledge and reasoning, computational semantics, discourse, and pragmatics. Previously, she completed her Ph.D. in Computer Science from Bar-Ilan University.
 https://vered1986.github.io/
+
 
 Event link:
 ===========
