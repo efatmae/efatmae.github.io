@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CV.pdf" afterPath="$PROJECT_DIR$/files/CV.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/womenInNlp.md" afterPath="$PROJECT_DIR$/_pages/womenInNlp.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_womenInNlp/2021-May-Vered_schwarts.md" afterPath="$PROJECT_DIR$/_womenInNlp/2021-May-Vered_schwarts.md" />
-    </list>
+    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="" />
     <ignored path="efatmae.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,12 +21,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="2021-May-Vered_schwarts.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2021-May-Vered_schwarts.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_womenInNlp/2021-May-Vered_schwarts.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
                 <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sigir.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_publications/2021/sigir.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="252">
+                <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -175,7 +186,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_womenInNlp" />
+              <option name="myItemId" value="_publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2021" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efatmae.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="efatmae.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_publications" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -854,18 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_publications/2021/sigir.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_talks/2020/2020-04-text2story.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1045,6 +1062,19 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/2021/sigir.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
             <folding />
           </first_editor>
           <second_editor>
