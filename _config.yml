@@ -188,9 +188,9 @@ collections:
 #  portfolio:
  #   output: true
   #  permalink: /:collection/:path/
-  awards:
-    output: true
-    permalink: /:collection/:path/
+  #awards:
+   # output: true
+    #permalink: /:collection/:path/
   activities:
     output: true
     permalink: /:collection/:path/
@@ -274,14 +274,14 @@ defaults:
       share: true
       comments: true
   # _awards
-  - scope:
-      path: ""
-      type: awards
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+   #   path: ""
+   #   type: awards
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _struggles
   - scope:
       path: ""
