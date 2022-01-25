@@ -1,5 +1,5 @@
 ---
-title: "AWandering with a Purpose: Some Thoughts on NLP and Charting Your Own Course."
+title: "Wandering with a Purpose: Some Thoughts on NLP and Charting Your Own Course."
 collection: womenInNlp
 date: 2021/08/24
 permalink: /womenInNlp/2021-Aug-Maria_antoniak
