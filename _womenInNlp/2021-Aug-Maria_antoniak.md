@@ -1,7 +1,7 @@
 ---
 title: "Wandering with a Purpose: Some Thoughts on NLP and Charting Your Own Course."
 collection: womenInNlp
-date: 2021/08/24
+date: 2021/08/27
 permalink: /womenInNlp/2021-Aug-Maria_antoniak
 ---
 Talk Description:
@@ -18,7 +18,7 @@ Maria Antoniak
 
 Date and Time:
 ==============
-Tuesday the 24th of August 2021 at 18:00 (BST)
+Tuesday the 27th of August 2021 at 18:00 (BST)
 
 About the speaker:
 ==================
