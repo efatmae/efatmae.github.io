@@ -6,7 +6,7 @@ permalink: /womenInNlp/2022-Jan_Abhilasha_Ravichander.md
 ---
 Talk Description:
 =======
-![alt text](/images/women_in_nlp/Abhilasha_Ravichander.jpeg)
+![alt text](/images/women_in_nlp/Abhilasha_Ravichander.png)
 
 Speaker:
 ========
