@@ -2,7 +2,7 @@
 title: "Towards Robust, Trustworthy Natural Language Understanding (and a Ph.D. degree)"
 collection: womenInNlp
 date: 2021/10/29
-permalink: /womenInNlp/2022-Jan_Abhilasha_Ravichander.md
+permalink: /womenInNlp/2022-Jan_Abhilasha_Ravichander
 ---
 Talk Description:
 =======
