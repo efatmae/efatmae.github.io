@@ -10,7 +10,7 @@ Talk Description:
 
 Talk Link:
 ==========
-The video is available online <a href="https://www.youtube.com/watch?v=InaCy309V7k&list=PLGSHbNsNO4VifUba7hpTk_EjJK8xc70n3">here</a>.
+The video is available online <a href="https://www.youtube.com/watch?v=iLZF9xcRjoI&t=4s">here</a>.
 
 Speaker:
 ========

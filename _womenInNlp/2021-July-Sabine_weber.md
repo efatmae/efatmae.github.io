@@ -8,6 +8,10 @@ Talk Description:
 =======
 ![alt text](/images/women_in_nlp/sabine_weber.png)
 
+Talk Link:
+==========
+The video is available online <a href="https://www.youtube.com/watch?v=6W6BpuFfnsU&t=3s">here</a>.
+
 Speaker:
 ========
 Sabine Weber

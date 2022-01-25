@@ -8,6 +8,10 @@ Talk Description:
 =======
 ![alt text](/images/women_in_nlp/maria_antoniak.jpeg)
 
+Talk Link:
+==========
+The video is available online <a href="https://www.youtube.com/watch?v=fZ_AZpz3BQI">here</a>.
+
 Speaker:
 ========
 Maria Antoniak
