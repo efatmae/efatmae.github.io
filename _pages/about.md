@@ -29,7 +29,7 @@ What is New:
 To know more about me:
 ======================
 * View my [CV](files/Fatma_Elsafoury.pdf)
-* This is a list of [my publications](publications.md)
+* A list of [my publications](publications.md)
 * A list of [my talks](talks.md)
 * Past talks of [Women_in_NLP](womenInNlp.md)
 * My volunteering [activities](activities.md)

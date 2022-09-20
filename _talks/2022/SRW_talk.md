@@ -7,8 +7,5 @@ venue: "Proceedings of the 60th Annual Meeting of the Association for Computatio
 date: 2022-05-27
 location: "Online"
 ---
-venue:
-==========
-Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop
-<a href="/files/talks/2022/SRW_2022/ACL_SRW_2022_presentation.pdf">Talk PPT</a>
+<a href="/files/talks/2022/SRW_2022/ACL_SRW_2022_presentation.pdf">Talk PPT</a><br>
 <a href="/files/talks/2022/SRW_2022/video1714387791.mp4">Talk presentation</a>

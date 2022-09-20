@@ -7,7 +7,4 @@ venue: "Language models seminar at IBM"
 date: 2022-06-12
 location: "Online"
 ---
-venue:
-==========
-Language models seminar at IBM
 <a href="/files/talks/2022/IBM_talks/IBM_June_2022.pdf">Talk PPT</a>
