@@ -7,4 +7,5 @@ venue: "Internship exit talk at IBM Research"
 date: 2022-08-24
 location: "Online"
 ---
+<b>venue:</b> Internship exit talk at IBM Research<br>
 <a href="/files/talks/2022/IBM_talks/IBM_exit_talk.pdf">Talk PPT</a>

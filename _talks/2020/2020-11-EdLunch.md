@@ -7,7 +7,5 @@ venue: "72 Language at Edinburgh Lunch"
 date: 2020-11-1
 location: "Online"
 ---
-venue:
-==========
-72 Language at Edinburgh Lunch <br>
+<b>venue:</b> 72 Language at Edinburgh Lunch<br>
 <a href="/files/talks/2020/2020-11-EdLunch.pdf">Talk PPT</a>

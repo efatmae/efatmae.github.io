@@ -7,6 +7,7 @@ venue: "Proceedings of the Tenth International Workshop on Natural Language Proc
 date: 2022-06-07
 location: "Online"
 ---
+<b>venue:</b> Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media<br>
 <a href="/files/talks/2022/Naacl2022/Socila_NLP_2022_ppt.pdf">Talk PPT</a><br>
 <a href="/files/talks/2022/Naacl2022/video4759095032.mp4">Talk presentation</a>
 
