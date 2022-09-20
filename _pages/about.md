@@ -20,6 +20,12 @@ how social biases impact the decisions made by ML models regarding toxicity and 
 In particular, I'm working on a very important and interesting research question, What is the effect of social and 
 intersectional biases on the task of hate speech and abuse detection?</p>
 
+What is New:
+=============
+* June-Aug 2022: I did an internship with  the NLP group at IBM Research in New York.
+* Aug 2022: My latest paper was accepted at COLING 2022.
+* May 2022: I was awarded an Enrichment Scheme (Community Award) at the Alan Turing Institute in London.
+
 To know more about me:
 ======================
 * View my [CV](files/Fatma_Elsafoury.pdf)
