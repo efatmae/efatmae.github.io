@@ -30,7 +30,7 @@ To know more about me:
 * Sometimes, I write about different things in [posts](posts.md)
 * In academia, it is not always easy. I share my [struggles](struggles.md) to help normalizing paper rejections and setbacks as part of the process.
 
-**What is New:**
+**Recent Updates:**
 =============
 * June-Aug 2022: I did an <b>internship</b> with  the NLP group at <b>IBM Research</b> in New York.
 * Aug 2022: My latest paper was <b>accepted at COLING 2022</b>.
