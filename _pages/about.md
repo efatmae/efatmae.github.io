@@ -16,9 +16,7 @@ and fairness. My research interests stem from being a woman from an underreprese
 I understand from my personal and research experiences how bias in NLP and ML applications has a direct 
 impact on the lives of the under-represented groups of people and how hate speech towards minorities has 
 severe implications on society like hate crimes. I'm interested in understanding 
-how social biases impact the decisions made by ML models regarding toxicity and hate speech detection.
-In particular, I'm working on a very important and interesting research question, What is the effect of social and 
-intersectional biases on the task of hate speech and abuse detection?</p>
+how social biases impact the decisions made by ML models regarding toxicity and hate speech detection.</p>
 
 To know more about me:
 ======================
