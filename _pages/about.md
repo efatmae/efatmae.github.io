@@ -32,9 +32,9 @@ To know more about me:
 
 **What is New:**
 =============
-* June-Aug 2022: I did an internship with  the NLP group at IBM Research in New York.
-* Aug 2022: My latest paper was accepted at COLING 2022.
-* May 2022: I was awarded an Enrichment Scheme (Community Award) at the Alan Turing Institute in London.
+* June-Aug 2022: I did an <b>internship</b> with  the NLP group at <b>IBM Research</b> in New York.
+* Aug 2022: My latest paper was <b>accepted at COLING 2022</b>.
+* May 2022: I was awarded an <b>Enrichment Scheme</b> (Community Award) at <b>the Alan Turing Institute</b> in London.
 
 
 

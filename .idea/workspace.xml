@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/IBM_Exit_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/IBM_Exit_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/IBM_NLP_seminar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/IBM_NLP_seminar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570725190443</updated>
-      <workItem from="1663664746127" duration="12634000" />
+      <workItem from="1663664746127" duration="12991000" />
     </task>
     <servers />
   </component>
