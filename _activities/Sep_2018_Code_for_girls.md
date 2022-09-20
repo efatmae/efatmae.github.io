@@ -3,7 +3,6 @@ title: "Web Development Instructor"
 collection: "activities"
 type: "Workshop"
 date: 2018/09/01
-permalink: /activities/Sep_2018_Code_for_girls
 venue: "Code First Girls, Glasgow"
 location: "Glasgow, The UK"
 ---

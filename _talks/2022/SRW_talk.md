@@ -2,7 +2,6 @@
 title: "Darkness can not drive out darkness: Investigating Bias in Hate SpeechDetection Models"
 collection: "Conference talks"
 type: "talks"
-permalink: /talks/2022/SRW_talk
 venue: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop"
 date: 2022-05-27
 location: "Online"

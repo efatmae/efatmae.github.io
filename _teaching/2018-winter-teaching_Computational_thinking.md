@@ -2,7 +2,6 @@
 title: "Computer Thinking: Alice"
 collection: teaching
 type: "Course lab"
-permalink: /teaching/2018-winter-teaching_Computational_thinking
 venue: "Glasgow University, Computing Science"
 date: "Sept 2018"
 location: "Glasgow, The UK"

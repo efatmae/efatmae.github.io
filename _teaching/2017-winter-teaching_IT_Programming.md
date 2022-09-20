@@ -2,7 +2,6 @@
 title: "Java Programming"
 collection: teaching
 type: "course lab"
-permalink: /teaching/2017-winter-teaching_IT_Programming
 venue: "Glasgow University, Computing Science"
 date: "Sept 2018"
 location: "Glasgow, The UK"

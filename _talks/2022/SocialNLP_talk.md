@@ -2,7 +2,6 @@
 title: "Comparative study on word embeddings and social NLP tasks"
 collection: "Conference talks"
 type: "talks"
-permalink: /talks/2022/SocialNLP_talk
 venue: "Proceedings of the Tenth International Workshop on Natural Language Processing for Social Media"
 date: 2022-06-07
 location: "Online"
