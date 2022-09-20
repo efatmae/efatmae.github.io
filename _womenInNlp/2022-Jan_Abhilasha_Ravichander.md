@@ -1,7 +1,7 @@
 ---
 title: "Towards Robust, Trustworthy Natural Language Understanding (and a Ph.D. degree)"
 collection: womenInNlp
-date: 2021/10/29
+date: 2022/01/21
 permalink: /womenInNlp/2022-Jan_Abhilasha_Ravichander
 ---
 Talk Description:
