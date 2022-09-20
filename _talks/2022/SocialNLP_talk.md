@@ -4,7 +4,7 @@ collection: "Conference talks"
 type: "talks"
 permalink: /talks/2022/SocialNLP_talk
 venue: ""
-date: 2022-06
+date: 2022-06-07
 location: "Online"
 ---
 venue:

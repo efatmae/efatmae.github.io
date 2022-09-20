@@ -2,7 +2,7 @@
 title: "Darkness can not drive out darkness: Investigating Bias in Hate SpeechDetection Models"
 collection: publications
 type: "Workshop Long Paper"
-date: 2022-05
+date: 2022-05-27
 authors: "Fatma Elsafoury"
 venue: "ACL 2022"
 venue-url: "https://sigir.org/sigir2021/"
