@@ -24,7 +24,7 @@ To know more about me:
 * A list of [my publications](publications.md)
 * A list of [my talks](talks.md)
 * Past talks of [Women_in_NLP](womenInNlp.md)
-* My volunteering [activities](activities.html)
+* My [volunteering activities](activities.html)
 * Sometimes, I write about different things in [posts](posts.md)
 * In academia, it is not always easy. I share my [struggles](struggles.md) to help normalizing paper rejections and setbacks as part of the process.
 
@@ -32,7 +32,7 @@ To know more about me:
 =============
 * June-Aug 2022: I did an <b>internship</b> with  the NLP group at <b>IBM Research</b> in New York.
 * Aug 2022: My latest paper was <b>accepted at COLING 2022</b>.
-* May 2022: I was awarded an <b>Enrichment Scheme</b> (Community Award) at <b>the Alan Turing Institute</b> in London.
+* May 2022: I was <b> awarded an Enrichment Scheme (Community Award) at the Alan Turing Institute</b> in London.
 
 
 
