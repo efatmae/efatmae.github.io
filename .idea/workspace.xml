@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/files/publications/2022/SOS_2022/bib.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/2022/COLING.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/COLING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +226,7 @@
       <updated>1570725190443</updated>
       <workItem from="1663664746127" duration="14374000" />
       <workItem from="1663754476144" duration="603000" />
-      <workItem from="1664292275683" duration="1396000" />
+      <workItem from="1664292275683" duration="1458000" />
     </task>
     <servers />
   </component>
