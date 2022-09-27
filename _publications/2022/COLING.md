@@ -8,6 +8,7 @@ venue: "COLING 2022"
 venue-url: "https://coling2022.org/"
 proceedings: "Proceedings of the 29th INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS"
 paperurl: '/files/publications/2022/SOS_2022/SOS_bias_paper.pdf'
+bibtexurl: '/files/publications/2022/Naacl2022/socialNLP.bib'
 ---
 
 <a href="/files/publications/2022/SOS_2022/COLING_poster_2022.pdf">Paper Poster</a>
