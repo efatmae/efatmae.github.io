@@ -170,13 +170,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/fatma/Dropbox/Git/efatmae.github.io/files/publications/2022/SOS_2022",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/fatma/Dropbox/Git/efatmae.github.io/files/publications/2022/SOS_2022&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/files/publications/2022/SOS_2022" />
@@ -226,7 +226,8 @@
       <updated>1570725190443</updated>
       <workItem from="1663664746127" duration="14374000" />
       <workItem from="1663754476144" duration="603000" />
-      <workItem from="1664292275683" duration="1974000" />
+      <workItem from="1664292275683" duration="2804000" />
+      <workItem from="1664359287531" duration="779000" />
     </task>
     <servers />
   </component>
