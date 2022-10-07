@@ -4,15 +4,22 @@
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/talks.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/2020/Text2Story_workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2020/Text2Story_workshop.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/2021/ieee_access.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2021/ieee_access.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2021/sigir.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2021/sigir.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2022/SOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SOS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2022/SRW.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SRW.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2020/2020-04-text2story.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2020/2020-04-text2story.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2020/2020-11-EdLunch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2020/2020-11-EdLunch.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2021/2021-07-sigir.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2021/2021-07-sigir.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2021/2021-08-EdLunch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2021/2021-08-EdLunch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/publications/2013/GeoInformatics_ITC_Twente.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/publications/2013/Msc_thesis_2011.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/DAAI_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/DAAI_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/IBM_Exit_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/IBM_Exit_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/IBM_NLP_seminar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/IBM_NLP_seminar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/SRW_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/SRW_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2022/SocialNLP_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/SocialNLP_talk.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +245,7 @@
       <workItem from="1663754476144" duration="603000" />
       <workItem from="1664292275683" duration="2804000" />
       <workItem from="1664359287531" duration="1391000" />
-      <workItem from="1665136846124" duration="10752000" />
+      <workItem from="1665136846124" duration="11481000" />
     </task>
     <servers />
   </component>
