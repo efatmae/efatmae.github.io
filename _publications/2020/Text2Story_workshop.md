@@ -10,7 +10,8 @@ held in conjunction with the 42nd European Conference on Information Retrieval (
 venue-url: "https://text2story20.inesctec.pt/"
 proceedings: "Third International Workshop on Narrative Extraction from Texts
 held in conjunction with the 42nd European Conference on Information Retrieval"
-
 bibtexurl: '/files/publications/2020/Text2Story_workshop.bib'
-paperurl: '/files/publications/2020/text2story.pdf'
+#paperurl: '/files/publications/2020/text2story.pdf'
 ---
+<a href="/files/publications/2020/text2story.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:22px;height:22px;"></a>
+<a href="https://github.com/efatmae/Tweets_Turkey_2013_data_analysis"><img src="/images/github_symbol.png" alt="Link to code" style="width:22px;height:22px;"></a>
