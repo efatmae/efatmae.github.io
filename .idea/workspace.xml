@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_activities/2022_Mental_health_advisory_board.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_activities/2021_SICSA_support_group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/2021_SICSA_support_group.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_activities/July_2018_PWA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/July_2018_PWA.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +228,7 @@
       <workItem from="1663754476144" duration="603000" />
       <workItem from="1664292275683" duration="2804000" />
       <workItem from="1664359287531" duration="1391000" />
-      <workItem from="1665136846124" duration="1400000" />
+      <workItem from="1665136846124" duration="1915000" />
     </task>
     <servers />
   </component>

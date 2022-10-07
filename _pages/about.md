@@ -19,6 +19,8 @@ severe implications on society like hate crimes. I'm interested in understanding
 how social biases impact the decisions made by ML models regarding toxicity and hate speech detection.</p>
 
 I've been an active member in my community by organizing the **Women_in_NLP** talk series where I have invited 10 women, so far, from **Google, Microsoft, Rasa, Allen AI, Carnegie Mellon University** and others to discuss their research and share their experience in NLP to encourage more women to work on NLP projects.
+
+
 To know more about me:
 ======================
 * View my [CV](files/Fatma_Elsafoury.pdf)
