@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_activities/2022_Mental_health_advisory_board.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/2018_2019_Mental_health_support_group.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_activities/2021_SICSA_support_group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/2021_SICSA_support_group.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_activities/July_2018_PWA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/July_2018_PWA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_activities/Sep_2018_Code_for_girls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,20 +176,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/fatma/Dropbox/Git/efatmae.github.io/files/publications/2022/SOS_2022&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/fatma/Dropbox/Git/efatmae.github.io/_activities",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_activities" />
       <recent name="$PROJECT_DIR$/files/publications/2022/SOS_2022" />
       <recent name="$PROJECT_DIR$/_talks/2022" />
       <recent name="$PROJECT_DIR$/files/talks/2022/SOS_2022" />
       <recent name="$PROJECT_DIR$/_womenInNlp" />
-      <recent name="$PROJECT_DIR$/files/talks/2020" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/files" />
@@ -227,7 +233,8 @@
       <workItem from="1663664746127" duration="14374000" />
       <workItem from="1663754476144" duration="603000" />
       <workItem from="1664292275683" duration="2804000" />
-      <workItem from="1664359287531" duration="779000" />
+      <workItem from="1664359287531" duration="1391000" />
+      <workItem from="1665136846124" duration="1400000" />
     </task>
     <servers />
   </component>

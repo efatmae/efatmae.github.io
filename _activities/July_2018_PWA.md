@@ -6,9 +6,8 @@ date: 2018/07/01
 venue: "Programming Workshop in Africa (PWA), Ibadaan University"
 location: "Ibadaan, Nigeria"
 ---
-<b>July 2021:</b>
-* <b>Workshop:</b> PhD support Group Sessions
-* <b>Venue:</b> Computing Science School, Glasgow University
+* <b>Workshop:</b> Programming Workshop in Africa (PWA)
+* <b>Venue:</b> Ibadaan University
 * <b>Location:</b> Ibadaan, Nigeria
 * <b>My responsibilities was to:<b>
   * Preparing course material

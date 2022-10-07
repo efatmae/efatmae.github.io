@@ -6,7 +6,6 @@ type: "PhD support Group Sessions"
 venue: "Computing Science School, Glasgow University"
 location: "Glasgow, The UK"
 ---
-<b>2021 - 2020: </b>
 * <b>Workshop:</b> PhD support Group Sessions
 * <b>Venue:</b> Computing Science School, Glasgow University
 * <b>Location:</b> Glasgow, The UK
