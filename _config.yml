@@ -96,7 +96,7 @@ author:
   github           : "efatmae"
   google_plus      :
   keybase          :
-  instagram        : "e.fatma.e"
+  instagram        : #"e.fatma.e"
   lastfm           :
   linkedin         : "fatma-elsafoury-64390a20/"
   orcid            : "https://orcid.org/0000-0002-9982-3511"
@@ -196,7 +196,7 @@ collections:
     permalink: /:collection/:path/
   struggles:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
   womenInNlp:
     output: true
     permalink: /:collection/:path/
