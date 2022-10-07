@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_publications/2013/GeoInformatics_ITC_Twente.md" beforeDir="false" />
-    </list>
+    <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +226,7 @@
       <workItem from="1663754476144" duration="603000" />
       <workItem from="1664292275683" duration="2804000" />
       <workItem from="1664359287531" duration="1391000" />
-      <workItem from="1665136846124" duration="12178000" />
+      <workItem from="1665136846124" duration="12567000" />
     </task>
     <servers />
   </component>
