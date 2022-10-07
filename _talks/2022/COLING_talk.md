@@ -3,7 +3,7 @@ title: "SOS: Systematic Offensive Stereotyping Bias in Word Embeddings"
 collection: "Conference talks"
 type: "talks"
 venue: "Proceedings of the 29th INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS"
-date: 2022-10-12
+date: 2022-10-17
 location: "Online"
 ---
 <b>venue:</b> Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop<br>
