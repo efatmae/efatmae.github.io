@@ -11,4 +11,4 @@ proceedings: "Proceedings of the 60th Annual Meeting of the Association for Comp
 bibtexurl: '/files/publications/2022/SRW_2022/bib.bib'
 ---
 <a href="/files/publications/2022/SRW_2022/paper.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
-<a href="/files/publications/2022/SRW_2022/ACL_SRW_2022_Poster.pdf"><img src="/images/poster_symbol.jpg" alt="Link to poster" style="width:42px;height:42px;"></a>
+<a href="/files/publications/2022/SRW_2022/ACL_SRW_2022_Poster.pdf"><img src="/images/poster_symbol.png" alt="Link to poster" style="width:42px;height:42px;"></a>

@@ -12,4 +12,4 @@ bibtexurl: '/files/publications/2022/Naacl2022/socialNLP.bib'
 ---
 <a href="/files/publications/2022/Naacl2022/socialNLP_paper_2022.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
 <a href="/files/publications/2022/Naacl2022/NAACL_poster_2022.pdf"><img src="/images/poster_symbol.jpg" alt="Link to poster" style="width:42px;height:42px;"></a>
-<a href="https://github.com/efatmae/Comparative_analysis_word_embeddings_on_social_NLP_tasks"><img src="/images/github_symbol.png" alt="Link to code" style="width:42px;height:42px;"></a>
+<a href="https://github.com/efatmae/Comparative_analysis_word_embeddings_on_social_NLP_tasks"><img src="/images/poster_symbol.png" alt="Link to code" style="width:42px;height:42px;"></a>

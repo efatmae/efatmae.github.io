@@ -4,7 +4,8 @@
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/2022/SOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SOS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/paper_symbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/paper_symbol.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2022/SRW.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SRW.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +231,7 @@
       <workItem from="1663754476144" duration="603000" />
       <workItem from="1664292275683" duration="2804000" />
       <workItem from="1664359287531" duration="1391000" />
-      <workItem from="1665136846124" duration="8293000" />
+      <workItem from="1665136846124" duration="8859000" />
     </task>
     <servers />
   </component>
