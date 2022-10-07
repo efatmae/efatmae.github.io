@@ -13,6 +13,6 @@ I've started my research career since 2014 and so far it has not been so success
 This blog is meant to record my unsuccessful attempts in academia and research. The successful attempts are published in "Publications" and "Awards".
 
 {% for post in site.struggles reversed %}
-#{% include archive-single.html %}
+{% include archive-single.html %}
 {% endfor %}
 
