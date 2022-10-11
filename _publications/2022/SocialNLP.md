@@ -11,7 +11,13 @@ proceedings: "The 10th International Workshop on Natural Language Processing for
 #paperurl: '/files/publications/2022/Naacl2022/socialNLP_paper_2022.pdf'
 bibtexurl: '/files/publications/2022/Naacl2022/socialNLP.bib'
 github: 'https://github.com/efatmae/Comparative_analysis_word_embeddings_on_social_NLP_tasks'
-abstract: "In recent years, grey social media platforms,
+---
+<a href="/files/publications/2022/Naacl2022/socialNLP_paper_2022.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
+<a href="/files/publications/2022/Naacl2022/NAACL_poster_2022.pdf"><img src="/images/poster_symbol.png" alt="Link to poster" style="width:42px;height:42px;"></a>
+<a href="https://github.com/efatmae/Comparative_analysis_word_embeddings_on_social_NLP_tasks"><img src="/images/github_symbol.png" alt="Link to code" style="width:22px;height:22px;"></a>
+
+
+**Abstract:** In recent years, grey social media platforms,
 those with a loose moderation policy on cyber-
 bullying, have been attracting more users. Re-
 cently, data collected from these types of plat-
@@ -37,8 +43,4 @@ our datasets. Finally, We show even though
 most of the state-of-the-art bias metrics ranked
 social-media-based word embeddings as the
 most socially biased, these results remain in-
-conclusive and further research is required."
----
-<a href="/files/publications/2022/Naacl2022/socialNLP_paper_2022.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:22px;height:22px;"></a>
-<a href="/files/publications/2022/Naacl2022/NAACL_poster_2022.pdf"><img src="/images/poster_symbol.png" alt="Link to poster" style="width:22px;height:22px;"></a>
-<a href="https://github.com/efatmae/Comparative_analysis_word_embeddings_on_social_NLP_tasks"><img src="/images/github_symbol.png" alt="Link to code" style="width:22px;height:22px;"></a>
+conclusive and further research is required.

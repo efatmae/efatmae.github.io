@@ -7,5 +7,5 @@ date: 2022-10-07
 location: "Online"
 ---
 <b>venue:</b> Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop<br>
-<a href="/files/talks/2022/SOS_2022/sos_ppt.pdf"><img src="/images/ppt_symbol.png" alt="Link to PPT" style="width:22px;height:22px;"></a>
-<a href="/files/talks/2022/SOS_2022/video1694538340.mp4"><img src="/images/lecture_symbol.png" alt="Link to Talk" style="width:22px;height:22px;"></a>
+<a href="/files/talks/2022/SOS_2022/sos_ppt.pdf"><img src="/images/ppt_symbol.png" alt="Link to PPT" style="width:42px;height:42px;"></a>
+<a href="/files/talks/2022/SOS_2022/video1694538340.mp4"><img src="/images/lecture_symbol.png" alt="Link to Talk" style="width:42px;height:42px;"></a>

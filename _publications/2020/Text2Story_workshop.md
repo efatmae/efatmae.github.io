@@ -12,7 +12,12 @@ proceedings: "Third International Workshop on Narrative Extraction from Texts
 held in conjunction with the 42nd European Conference on Information Retrieval"
 bibtexurl: '/files/publications/2020/Text2Story_workshop.bib'
 #paperurl: '/files/publications/2020/text2story.pdf'
-abstract: "Since the Arab spring in 2011, protests have been spreading around the
+---
+<a href="/files/publications/2020/text2story.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
+<a href="https://github.com/efatmae/Tweets_Turkey_2013_data_analysis"><img src="/images/github_symbol.png" alt="Link to code" style="width:42px;height:42px;"></a>
+
+
+**Abstract:** Since the Arab spring in 2011, protests have been spreading around the
 world for di↵erent reasons, often these protests are faced with violent
 repression. Studying protest repression requires appropriate datasets.
 Existing datasets like GDELT focus mainly on events reported in news
@@ -26,7 +31,4 @@ in 2013. Our results show that Twitter is a reliable source reflecting
 events happening on the ground as soon as they happen. Moreover,
 training conventional ML models on crowdsourced labelled data gave
 good results with an AUC score of 0.896 to detect protest events and
-0.8189 to detect repression events."
----
-<a href="/files/publications/2020/text2story.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:22px;height:22px;"></a>
-<a href="https://github.com/efatmae/Tweets_Turkey_2013_data_analysis"><img src="/images/github_symbol.png" alt="Link to code" style="width:22px;height:22px;"></a>
+0.8189 to detect repression events.

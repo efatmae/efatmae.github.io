@@ -11,7 +11,13 @@ proceedings: "Proceedings of the 44th International ACM SIGIR Conference on Rese
 poster: '/files/publications/2021/Sigir_2021_Poster.pdf'
 presentation: '/files/publications/2021/sigir_presentation.pdf'
 bibtexurl: '/files/publications/2021/sigir.bib'
-abstract:"Social media have brought threats like cyberbullying, which can
+---
+<a href="/files/publications/2021/sigir_2021.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
+<a href="/files/publications/2021/Sigir_2021_Poster.pdf"><img src="/images/poster_symbol.png" alt="Link to poster" style="width:42px;height:42px;"></a>
+<a href="https://github.com/efatmae/Does-BERT-pay-attention-to-cyberbullying-/tree/main/Does-BERT-pay-attention-to-cyberbullying-"><img src="/images/github_symbol.png" alt="Link to code" style="width:42px;height:42px;"></a>
+
+
+**Abstract:** Social media have brought threats like cyberbullying, which can
 lead to stress, anxiety, depression and in some severe cases, suicide
 attempts. Detecting cyberbullying can help to warn/ block bullies
 and provide support to victims. However, very few studies have
@@ -26,8 +32,4 @@ that attention weights do not correlate with feature importance
 scores and thus do not explain the model’s performance. Addi-
 tionally, they suggest that BERT relies on syntactical biases in the
 datasets to assign feature importance scores to class-related words
-rather than cyberbullying-related linguistic features."
----
-<a href="/files/publications/2021/sigir_2021.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:22px;height:22px;"></a>
-<a href="/files/publications/2021/Sigir_2021_Poster.pdf"><img src="/images/poster_symbol.png" alt="Link to poster" style="width:22px;height:22px;"></a>
-<a href="https://github.com/efatmae/Does-BERT-pay-attention-to-cyberbullying-/tree/main/Does-BERT-pay-attention-to-cyberbullying-"><img src="/images/github_symbol.png" alt="Link to code" style="width:22px;height:22px;"></a>
+rather than cyberbullying-related linguistic features.
