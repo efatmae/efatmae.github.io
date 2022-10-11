@@ -10,13 +10,8 @@
       <change beforePath="$PROJECT_DIR$/_publications/2022/SRW.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SRW.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2020/2020-04-text2story.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2020/2020-04-text2story.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2020/2020-11-EdLunch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2020/2020-11-EdLunch.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2021/2021-07-sigir.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2021/2021-07-sigir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2021/2021-08-EdLunch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2021/2021-08-EdLunch.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2022/DAAI_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/DAAI_talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2022/IBM_Exit_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/IBM_Exit_talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2022/IBM_NLP_seminar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/IBM_NLP_seminar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2022/SRW_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/SRW_talk.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_talks/2022/SocialNLP_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/SocialNLP_talk.md" afterDir="false" />
     </list>
@@ -245,7 +240,7 @@
       <workItem from="1664292275683" duration="2804000" />
       <workItem from="1664359287531" duration="1391000" />
       <workItem from="1665136846124" duration="12985000" />
-      <workItem from="1665482500239" duration="439000" />
+      <workItem from="1665482500239" duration="1224000" />
     </task>
     <servers />
   </component>
