@@ -34,7 +34,7 @@ To know more about me:
 
 **Recent Updates:**
 =============
-* Sept 2023: I started my <b>research position</b> at the <b>Weizenbaum research insatiate</b> in Berlin.
+* Sept 2023: I started my <b>research position</b> at the <b>Weizenbaum research Institute</b> in Berlin.
 * July 2023: I submitted my <b>PhD thesis</b> at the University of the West of Scotland.
 * June-Aug 2022: I did an <b>internship</b> with  the NLP group at <b>IBM Research</b> in New York.
 * Aug 2022: My latest paper was <b>accepted at COLING 2022</b>.
