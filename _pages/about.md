@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 Hello, my name is Fatma Elsafoury and I'm a researcher at the Weizenbaum institute in Berlin. I joined the Data, Algorithmic Systems and Ethics research group. 
+
+
 Research
 ========
 <p>In my research, I'm interested in social science computing. In particular, social bias, toxicity, hate speech, 
