@@ -1,5 +1,5 @@
 ---
-title: "Systematic Offensive Stereotyping (SOS) bias in Word Embeddings"
+title: "Systematic offensive stereotyping (SOS) bias in static and contextual word embeddings"
 collection: "Invited talks"
 type: "talks"
 venue: "The Bias in AI network meeting, Durham University"
