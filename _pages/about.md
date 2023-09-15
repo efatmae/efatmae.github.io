@@ -25,7 +25,7 @@ I've been an active member in my community by organising the **Women_in_NLP** ta
 To know more about me:
 ======================
 * View my [CV](files/Fatma_Elsafoury.pdf)
-* A list of [my publications](publications.md) ** My publications are not update to date at the moment. For more updated version please check my CV.
+* A list of [my publications](publications.md)
 * A list of [my talks](talks.md)
 * Past talks of [Women_in_NLP](womenInNlp.md)
 * My [volunteering activities](activities.html)
