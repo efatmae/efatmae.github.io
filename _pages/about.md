@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "Hello World,"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Hello, my name is Fatma Elsafoury and I'm a researcher at the Weizenbaum institute in Berlin. I joined the Data, Algorithmic Systems and Ethics research group. 
+My name is Fatma Elsafoury and I'm a researcher at the Weizenbaum institute in Berlin. I joined the Data, Algorithmic Systems and Ethics research group. 
 
 
 Research
