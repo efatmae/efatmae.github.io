@@ -4,7 +4,7 @@ collection: publications
 type: "Pre-print"
 date: 2023-05-16
 authors: "Fatma Elsafoury , Gavin Abercrombie"
-venue: "arxiv"
+venue: "Pre-print: arxiv"
 #venue-url: "https://sites.google.com/view/socialnlp2022/"
 #proceedings: "The 10th International Workshop on Natural Language Processing for Social Media"
 #paperurl: '/files/publications/2022/Naacl2022/socialNLP_paper_2022.pdf'

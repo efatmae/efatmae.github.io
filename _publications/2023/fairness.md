@@ -4,7 +4,7 @@ collection: publications
 type: "Pre-print"
 date: 2023-05-31
 authors: "Fatma Elsafoury, Stamos Katsigiannis, and Naeem Ramzan"
-venue: "arxiv"
+venue: "Pre-print: arxiv"
 #venue-url: "https://coling2022.org/"
 #proceedings: "Proceedings of the 29th INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS"
 #paperurl: '/files/publications/2022/SOS_2022/SOS_bias_paper.pdf'

@@ -4,7 +4,7 @@ collection: publications
 type: "Pre-print"
 date: 2023-08-21
 authors: "Fatma Elsafoury"
-venue: "arxiv"
+venue: "Pre-print: arxiv"
 #venue-url: "https://sites.google.com/view/acl-srw-2022/home/"
 #proceedings: "Proceedings of the 60th Annual Meeting of the Association for Computational #Linguistics: Student Research Workshop"
 #paperurl: '/files/publications/2022/SRW_2022/paper.pdf'
