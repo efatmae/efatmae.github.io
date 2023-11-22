@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: archive
 title: "Struggles"
 permalink: /struggles/
 author_profile: true
