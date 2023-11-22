@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Fatma Elsafoury and I'm a researcher at the Weizenbaum institute in Berlin. I joined the Data, Algorithmic Systems and Ethics research group. 
+My name is Fatma Elsafoury and I'm a postdoc at the Weizenbaum institute in Berlin. I joined the Data, Algorithmic Systems and Ethics research group. 
 
 
 Research
@@ -30,10 +30,10 @@ To know more about me:
 * Past talks of [Women_in_NLP](womenInNlp.md)
 * My [volunteering activities](activities.html)
 * Sometimes, I write about different things in [posts](posts.md)
-* In academia, it is not always easy. I share my [struggles](struggles.md) to help normalizing paper rejections and setbacks as part of the process.
+* In academia, research life is not easy. I share my [struggles](struggles.md) to help normalizing paper rejections and setbacks as part of the process.
 
 **Recent Updates:**
-=============
+===================
 * Sept 2023: I started my <b>research position</b> at the <b>Weizenbaum research Institute</b> in Berlin.
 * July 2023: I submitted my <b>PhD thesis</b> at the University of the West of Scotland.
 * June-Aug 2022: I did an <b>internship</b> with  the NLP group at <b>IBM Research</b> in New York.
