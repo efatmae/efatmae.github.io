@@ -4,7 +4,7 @@ collection: publications
 type: "Pre-print"
 date: 2023-08-31
 authors: "Fatma Elsafoury"
-venue: "Big Picture Workshop at EMNLP 2023"
+venue: "The Big Picture Workshop at EMNLP 2023"
 venue-url: "https://www.bigpictureworkshop.com"
 #proceedings: "Proceedings of the 60th Annual Meeting of the Association for Computational #Linguistics: Student Research Workshop"
 #paperurl: '/files/publications/2022/SRW_2022/paper.pdf'
