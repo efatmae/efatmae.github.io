@@ -5,7 +5,7 @@ type: "Pre-print"
 date: 2023-08-31
 authors: "Fatma Elsafoury"
 venue: "Big Picture Workshop at EMNLP 2023"
-venue-url: "https://sites.google.com/view/acl-srw-2022/home/"
+venue-url: "https://www.bigpictureworkshop.com"
 #proceedings: "Proceedings of the 60th Annual Meeting of the Association for Computational #Linguistics: Student Research Workshop"
 #paperurl: '/files/publications/2022/SRW_2022/paper.pdf'
 #bibtexurl: '/files/publications/2022/SRW_2022/bib.bib'
