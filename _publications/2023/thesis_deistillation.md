@@ -7,7 +7,7 @@ authors: "Fatma Elsafoury"
 venue: "The Big Picture Workshop at EMNLP 2023"
 venue-url: "https://www.bigpictureworkshop.com"
 proceedings: "In Proceedings of the Big Picture Workshop, pages 53–65, Singapore. Association for Computational Linguistics."
-paperurl: 'https://aclanthology.org/2023.bigpicture-1.5/'
+#paperurl: 'https://aclanthology.org/2023.bigpicture-1.5/'
 bibtexurl: 'files/publications/2023/Thesis_distillation/bib.bib'
 ---
 <a href="/files/publications/2023/Thesis_distillation/Thesis_distilation.pdf"><img alt="Link to paper" src="/images/paper_symbol.png"/></a>
