@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ba3cbc51-60b2-4c11-aaeb-bf5457329a62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2020/Text2Story_workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2020/Text2Story_workshop.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2021/ieee_access.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2021/ieee_access.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2021/sigir.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2021/sigir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2022/SOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SOS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2022/SRW.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SRW.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022/SocialNLP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2020/2020-04-text2story.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2020/2020-04-text2story.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2021/2021-07-sigir.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2021/2021-07-sigir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/COLING_talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2022/SRW_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/SRW_talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2022/SocialNLP_talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2022/SocialNLP_talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +79,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="y" value="25" />
     <option name="width" value="1440" />
@@ -181,20 +177,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/fatma/Dropbox/Git/efatmae.github.io/_activities&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/fatma/Dropbox/efatmae.github.io/files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/_activities" />
       <recent name="$PROJECT_DIR$/files/publications/2022/SOS_2022" />
       <recent name="$PROJECT_DIR$/_talks/2022" />
       <recent name="$PROJECT_DIR$/files/talks/2022/SOS_2022" />
-      <recent name="$PROJECT_DIR$/_womenInNlp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/files" />
@@ -241,6 +245,7 @@
       <workItem from="1664359287531" duration="1391000" />
       <workItem from="1665136846124" duration="12985000" />
       <workItem from="1665482500239" duration="1224000" />
+      <workItem from="1707734523026" duration="705000" />
     </task>
     <servers />
   </component>
