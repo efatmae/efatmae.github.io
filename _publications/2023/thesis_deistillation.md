@@ -1,14 +1,14 @@
 ---
 title: "Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection"
 collection: publications
-type: "Pre-print"
+type: "Workshop Long Paper"
 date: 2023-08-31
 authors: "Fatma Elsafoury"
 venue: "The Big Picture Workshop at EMNLP 2023"
 venue-url: "https://www.bigpictureworkshop.com"
-#proceedings: "Proceedings of the 60th Annual Meeting of the Association for Computational #Linguistics: Student Research Workshop"
-#paperurl: '/files/publications/2022/SRW_2022/paper.pdf'
-#bibtexurl: '/files/publications/2022/SRW_2022/bib.bib'
+proceedings: "In Proceedings of the Big Picture Workshop, pages 53–65, Singapore. Association for Computational Linguistics."
+paperurl: 'https://aclanthology.org/2023.bigpicture-1.5/'
+bibtexurl: '/files/publications/2023/Thesis_distillation/bib.bib'
 ---
 <a href="/files/publications/2023/Thesis_distillation/Thesis_distilation.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
 <a href="/files/publications/2023/Thesis_distillation/Thesis_distillation_poster.pdf"><img src="/images/poster_symbol.png" alt="Link to poster" style="width:42px;height:42px;"></a>
