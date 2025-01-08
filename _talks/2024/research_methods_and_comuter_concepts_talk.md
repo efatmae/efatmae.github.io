@@ -3,7 +3,7 @@ title: "Introduction to Bias and Fairness in AI, Natural Language Processing and
 collection: "Guest Lecture"
 type: "talks"
 venue: "Introduction to research methods and computer science concepts course, Technische Universität"
-date: 2024-11-14
+date: 2025-01-08
 location: "Online"
 ---
 <b>venue:</b> Introduction to research methods and computer science concepts course, Technische Universität, Germany <br>
