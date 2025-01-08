@@ -1,13 +1,12 @@
 ---
-title: "Spatial and Temporal analysis of Electoral violence of the Nigerian Elections 2003"
+title: "Discrimination in AI and DeepFakes"
 date: 2021/01/31
-permalink: /posts/2021/01/blog-post-3/
+permalink: /posts/2024/11/blog-post-deepfake-diskrimination/
 tags:
-  - Elections
-  - Violence
-  - spatial analysis
-  - temporal analysis
-  - Nigeria
+  - Discrimination
+  - AI
+  - Deep Fakes
+  - Bias
 ---
 Introduction
 =============

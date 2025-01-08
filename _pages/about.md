@@ -34,7 +34,7 @@ To know more about me:
 
 **Recent Updates:**
 ===================
-* Dec 2024: I publish an artilce at the Federal Agency for Civic Education [A link to the German article] (https://www.bpb.de/lernen/bewegtbild-und-politische-bildung/556762/diskriminierung/) and [A link to the English version of the Article] (_posts/2024-11-15-blog-post-deepfake-diskrimination.md)
+* Dec 2024: I publish an artilce at the Federal Agency for Civic Education [A link to the German article](https://www.bpb.de/lernen/bewegtbild-und-politische-bildung/556762/diskriminierung/)  and [A link to the English version of the Article](_posts/2024-11-15-blog-post-deepfake-diskrimination.md)
 * Jan 2024: I passed <b>my PhD viva</b> with minor corrections. [A Link to my PhD thesis after corrections.](files/Fatma-Elsafoury-PhD-thesis.pdf)
 * Oct 2023: My PhD summary paper is accepted at the <b> The Big Picture</b> workshop at <b>EMNLP</b>. The paper is called <b>Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection</b> 
 * Sept 2023: I started my <b>research position</b> at the <b>Weizenbaum research Institute</b> in Berlin.
