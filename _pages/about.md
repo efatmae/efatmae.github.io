@@ -34,6 +34,7 @@ To know more about me:
 
 **Recent Updates:**
 ===================
+* April 2025: Co-organized the [SSaLM](https://lppohl.github.io/wi-workshop.github.io/content/0-program.html): Social Science and Language Technologies Workshop at weizenbaum Institute
 * Dec 2024: I published an artilce at the Federal Agency for Civic Education [A link to the German article](https://www.bpb.de/lernen/bewegtbild-und-politische-bildung/556762/diskriminierung/)  and [A link to the English version of the Article](https://efatmae.github.io/posts/2024/11/blog-post-6/)
 * Jan 2024: I passed <b>my PhD viva</b> with minor corrections. [A Link to my PhD thesis after corrections.](files/Fatma-Elsafoury-PhD-thesis.pdf)
 * Oct 2023: My PhD summary paper is accepted at the <b> The Big Picture</b> workshop at <b>EMNLP</b>. The paper is called <b>Thesis Distillation: Investigating The Impact of Bias in NLP Models on Hate Speech Detection</b> 
