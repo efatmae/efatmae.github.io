@@ -1,5 +1,5 @@
 ---
-title: "Out of Sight Out of Mind,Out of Sight Out of Mind: Measuring Bias in Language Models Against Overlooked Marginalized Groups in Regional Contexts}"
+title: "Out of Sight Out of Mind,Out of Sight Out of Mind: Measuring Bias in Language Models Against Overlooked Marginalized Groups in Regional Contexts"
 collection: publications
 type: "Pre-print"
 date: 2025-04-15
@@ -10,7 +10,7 @@ venue: "Pre-print: arxiv"
 #paperurl: '/files/publications/2022/SOS_2022/SOS_bias_paper.pdf'
 #bibtexurl: '/files/publications/2022/SOS_2022/bib.bib'
 ---
-<a href="/files/publications/2025/SOS_2022/Out_of_sight_out_of_mind.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
+<a href="/files/publications/2025/Out_of_sight_out_of_mind.pdf"><img src="/images/paper_symbol.png" alt="Link to paper" style="width:42px;height:42px;"></a>
 
 
 **Abstract:** We know that language models (LMs) form biases and stereotypes of minorities, leading to unfair treatments of members of these groups, thanks to research mainly in the US and the broader English-speaking world. As the negative behavior of these models has severe consequences for society and individuals, industry and academia are actively developing methods to reduce the bias in LMs. However, there are many under-represented groups and languages that have been overlooked so far. This includes marginalized groups that are specific to individual countries and regions in the English speaking and Western world, but crucially also almost all marginalized groups in the rest of the world. The UN estimates, that between 600 million to 1.2 billion people worldwide are members of marginalized groups and in need for special protection. If we want to develop inclusive LMs that work for everyone, we have to broaden our understanding to include overlooked marginalized groups and low-resource languages and dialects.
