@@ -15,14 +15,14 @@ main:
  # - title: "Awards"
   #  url: /awards/
 
-  - title: "Struggles"
-    url: /struggles/
+ # - title: "Struggles"
+  #  url: /struggles/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "women_in_nlp"
-    url: /womenInNlp/
+#  - title: "women_in_nlp"
+ #   url: /womenInNlp/
 
   - title: "Volunteering"
     url: /activities/
