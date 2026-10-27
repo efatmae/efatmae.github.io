@@ -27,10 +27,10 @@ To know more about me:
 * View my [CV](files/Fatma_Elsafoury.pdf)
 * A list of [my publications](publications.md)
 * A list of [my talks](talks.md)
-#* Past talks of [Women_in_NLP](womenInNlp.md)
+## * Past talks of [Women_in_NLP](womenInNlp.md)
 * My [volunteering activities](activities.html)
 * Sometimes, I write about different things in [posts](posts.md)
-#* In academia, research life is not easy. I share my [struggles](struggles.md) to help normalizing paper rejections and setbacks as part of the process.
+## * In academia, research life is not easy. I share my [struggles](struggles.md) to help normalizing paper rejections and setbacks as part of the process.
 
 **Recent Updates:**
 ===================
